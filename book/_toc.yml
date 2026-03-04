@@ -4,15 +4,25 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Part with some content # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
+
+  - caption: About # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
     numbered: false                 # Default value (line can be removed), whether to number the chapters/sections in this part, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
     style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
-    - file: some_content/overview.md
+    - file: about/what-is-data-literacy.md
+    - file: about/how-to-use-this-handbook.md
+    - file: about/roadmap.md
+    - file: paths/intro.md
       sections:
-      - file: some_content/text_and_code.ipynb
-  - caption: Exercises
+      - file: paths/BAstudent.md
+      - file: paths/MAstudent.md
+      - file: paths/thesis.md
+      - file: paths/teacher.md
+      - file: paths/qualitative.md
+      - file: paths/quantitative.md
+  
+  - caption: Planning
     chapters:
     - file: exercises.md
       sections:
@@ -40,6 +50,51 @@ parts:
       - file: extension_exercises/014.md
       - file: extension_exercises/015.md
       - file: extension_exercises/016.md
+
+  - caption: Re-using data
+    chapters:
+    - file: reuse/intro.md
+
+  - caption: Collecting data
+    chapters:
+    - file: collection/intro.md
+
+  - caption: Analysing data
+    chapters:
+    - file: analysis/intro.md
+
+  - caption: Interpretation and Evaluation
+    chapters:
+    - file: interpret/intro.md
+
+  - caption: Storage
+    chapters:
+    - file: storage/intro.md
+
+  - caption: Long term preservation
+    chapters:
+    - file: long-term/publishing.md
+      sections:
+      - file: long-term/FAIR.md
+      # consider adding here pages directly from The Turing Way
+    - file: long-term/archiving.md
+      sections:
+      - file: long-term/why-keeping-data.md
+
+  - caption: Privacy and Security 
+    chapters:
+    - file: privacy/intro.md
+      sections:
+      - file: privacy/when-privacy.md
+      - file: privacy/when-security.md
+    - file: privacy/privacy-course.md
+      sections:
+      - file: privacy/ch1.md
+      - file: privacy/ch2.md
+      #- external: https://github.com/TeachBooks/manual/blob/release/book/examples/book_structure.md
+      #- external: https://github.com/UtrechtUniversity/dataprivacyhandbook/blob/main/book/chapters/personal-data.Rmd
+    # here it may be relevant to reuse content from UU Handbook: http://oit.tudelft.nl/TUDelft-template/main/exercises/005a.html
+  
   - caption: Miscellaneous
     chapters:
     - file: references.md
