@@ -20,7 +20,11 @@ parts:
       - file: paths/teacher.md
       - file: paths/qualitative.md
       - file: paths/quantitative.md
-  
+
+  - caption: Basics
+    chapters: 
+      - file: basics/what-is-data.md
+      
   - caption: Planning
     chapters:
     - file: exercises.md
