@@ -11,7 +11,7 @@ parts:
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
     - file: about/what-is-data-literacy.md
-    - file: about/roadmap.md
+    - file: about/how-to-contribute.md
     - file: about/how-to-use-this-handbook.md
       sections:
       - file: paths/BAstudent.md
