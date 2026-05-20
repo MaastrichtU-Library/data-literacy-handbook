@@ -26,6 +26,7 @@ parts:
       - file: basics/what-is-data.md
       - file: basics/data-lifecycle.md
       - file: basics/why-data-literacy.md
+      - file: basics/related-literacies-overlap.md
       
   - caption: Planning
     chapters:
