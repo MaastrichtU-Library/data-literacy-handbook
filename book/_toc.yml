@@ -24,6 +24,8 @@ parts:
   - caption: Basics
     chapters: 
       - file: basics/what-is-data.md
+      - file: basics/data-lifecycle.md
+      - file: basics/why-data-literacy.md
       
   - caption: Planning
     chapters:
