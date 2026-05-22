@@ -9,7 +9,7 @@ From enviromental measurements to archival documents, data can take **many diffe
 
 Here are some examples of data types: 
 
-### Numbers
+##### Numbers
 Numbers can tell information about a variety of situations: 
 * facts about people, such as age, height, number of siblings, income, as well as self reported feelings or pain;
 * facts about countries, such as land extension, number of population, age of retirement, GDP;
@@ -20,7 +20,7 @@ Numbers can tell information about a variety of situations:
 * facts about objects, such as weight, speed;
 * the list goes on! 
 
-### Textual 
+##### Textual 
 Textual data (words) can be found in different ways: 
 * parliamentary debates; 
 * newspaper articles; 
@@ -33,7 +33,7 @@ Textual data (words) can be found in different ways:
 * open-ended questions; 
 * the list goes on!  
 
-### Audio 
+##### Audio 
 Audio data can include:
 * recordings of people speaking a specific language;
 * recordings of an interview; 
@@ -43,7 +43,7 @@ Audio data can include:
 * soundscapes;
 * the list goes on!
 
-### Visual data 
+##### Visual data 
 Visual data can be found or collected by the researcher, for example:
 * pictures;
 * social media posts;
@@ -54,7 +54,7 @@ Visual data can be found or collected by the researcher, for example:
 * X-ray scans; 
 * the list goes on!
 
-### Audio-visual data 
+##### Audio-visual data 
 * video-recordings of interviews or focus groups; 
 * video-recordings of crime scenes;
 * video-recordings of birds coupling dances; 
@@ -67,7 +67,7 @@ Visual data can be found or collected by the researcher, for example:
 * achival footage;
 * the list goes on!
 
-### Spatial data 
+##### Spatial data 
 * Floor plans;
 * urban development plans; 
 * archival municipality documentation;
@@ -76,7 +76,7 @@ Visual data can be found or collected by the researcher, for example:
 * geolocation data; 
 * the list goes on!
 
-### Samples and artifacts  
+##### Samples and artifacts  
 These are physical data that are collected and stored by the researcher, such as; 
 * human biological samples (DNA, blood, saliva, etc.);
 * animal biological samples ();
@@ -86,7 +86,7 @@ These are physical data that are collected and stored by the researcher, such as
 * modern artifacts (letters, drawings, artworks, etc.)
 * the list goes on!
 
-### Lived experience 
+##### Lived experience 
 As a researcher, your lived experience can also constitute data, for example: 
 * memories of fieldwork; 
 * interaction with participants; 
@@ -94,7 +94,6 @@ As a researcher, your lived experience can also constitute data, for example:
 * elaboration of one's experience; 
 * and more!
 
-## What is metadata? 
 
 
 
