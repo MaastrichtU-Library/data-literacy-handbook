@@ -32,7 +32,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ---
 [x] personal data
 [ ] questioning data
-[X] qualitative data
+[x] qualitative data
 [x] census data
 [ ] transitive data
 ---
@@ -48,11 +48,15 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ---
 [ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
 > Try again! This quote is attributed to Mark Twain  
-[ ] Errors using inadequate data are much less than those using no data at all.
-> Try again! This quote is attributed to Charles Babbage 
-[ ] qualitative data
+[ ] Without data, you're just another person with an opinion.
+> Try again! This quote is attributed to William Edwards Deming 
+[ ] The goal is to turn data into information, and information into insight.
+> Try again! This quote is attributed to Carly Fiorina
 [x] It is a capital mistake to theorize before one has data.
 > Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
+[ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
+> Try again! This quote is attributed to John Naisbitt
+
 ---
 ::::
 
