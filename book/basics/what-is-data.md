@@ -11,7 +11,7 @@ Here are some examples of data types:
 
 ::::{tab-set}
 
-:::{Numbers} Numbers
+:::{tab-item} Numbers
 * facts about people, such as age, height, number of siblings, income, as well as self reported feelings or pain;
 * facts about countries, such as land extension, number of population, age of retirement, GDP;
 * facts about the earth, such as temperature changes, humidity levels, sea levels;
