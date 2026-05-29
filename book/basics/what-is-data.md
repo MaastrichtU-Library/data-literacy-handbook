@@ -1,6 +1,8 @@
 # What is Data? 
 
-Data is a collection of facts or information (add definition of data)
+Data is a collection of facts or information (add definition of data) {cite:ps}`merriam-webster-data`
+{cite:p}`jason_moore`
+
 %%(add the phdcomics on data singular or plural)
 
 
