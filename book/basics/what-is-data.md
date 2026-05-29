@@ -1,15 +1,32 @@
 # What is Data? 
 
-Data is a collection of facts or information (add definition of data) {cite:ps}`merriam-webster-data`
-{cite:p}`jason_moore`
+Data can be seen as factual information used as a basis for reasoning, discussion, or calculation {cite:ps}`merriam-webster-data`. 
+
 
 %%(add the phdcomics on data singular or plural)
-
-
 
 From enviromental measurements to archival documents, data can take **many different forms**. Different types of data can be used to answer different research questions and they can also be combined to answer the same one.       
 
 Here are some examples of data types: 
+
+::::{tab-set}
+
+:::{tab-item} Numbers
+* facts about people, such as age, height, number of siblings, income, as well as self reported feelings or pain;
+* facts about countries, such as land extension, number of population, age of retirement, GDP;
+* facts about the earth, such as temperature changes, humidity levels, sea levels;
+* facts about celestial objects, such as estimated age, speed of orbit, compositions; 
+* facts about the human body, such as ...
+* facts about other animals and plants, such as number of species in a continent;
+* facts about objects, such as weight, speed;
+* the list goes on!
+:::
+
+:::{tab-item} Label2
+Content 2
+:::
+
+::::
 
 ##### Numbers
 Numbers can tell information about a variety of situations: 
