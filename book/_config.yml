@@ -19,6 +19,8 @@ sphinx:                                              # Options passed on to the 
   extra_extensions:                                  # Sets a list of extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     - teachbooks_favourites                          # Gives you a starter package of extensions to use in your book, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
     - sphinx_design             # Containers (labelled containers) as explained in : https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html 
+    - sphinx-indexed-definitions # Definitions extenstion
+    - teachbooks_questions     # extension ofr quizzes
     - sphinx_apa_references     # APA references extension
   local_extension: null                              # Sets a a list of local extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
   config:
