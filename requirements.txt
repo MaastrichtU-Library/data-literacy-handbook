@@ -4,7 +4,7 @@ teachbooks # depends on jupyter-book v1
 sphinx-apa-references 
 sphinx_design
 teachbooks-questions
-sphinx-indexed-definitions
+# sphinx-indexed-definitions
 
 # Our favourite Sphinx extensions in one line, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
 git+https://github.com/TeachBooks/TeachBooks-Favourites
