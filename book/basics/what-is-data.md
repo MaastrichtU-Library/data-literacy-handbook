@@ -12,34 +12,17 @@ Here are some examples of data types:
 ::::{tab-set}
 
 :::{tab-item} Numbers
-* facts about people, such as age, height, number of siblings, income, as well as self reported feelings or pain;
-* facts about countries, such as land extension, number of population, age of retirement, GDP;
-* facts about the earth, such as temperature changes, humidity levels, sea levels;
-* facts about celestial objects, such as estimated age, speed of orbit, compositions; 
-* facts about the human body, such as ...
-* facts about other animals and plants, such as number of species in a continent;
-* facts about objects, such as weight, speed;
+* data about **people**, such as age, height, number of siblings, income, as well as self reported feelings or pain;
+* data about **countries**, such as land extension, number of population, age of retirement, GDP;
+* data about the **earth**, such as temperature changes, humidity levels, sea levels;
+* data about **celestial objects**, such as estimated age, speed of orbit, compositions; 
+* data about the **human body**, such as ...
+* data about other **animals and plants**, such as number of species in a continent;
+* data about **objects**, such as weight, speed;
 * the list goes on!
 :::
 
-:::{tab-item} Label2
-Content 2
-:::
-
-::::
-
-##### Numbers
-Numbers can tell information about a variety of situations: 
-* facts about people, such as age, height, number of siblings, income, as well as self reported feelings or pain;
-* facts about countries, such as land extension, number of population, age of retirement, GDP;
-* facts about the earth, such as temperature changes, humidity levels, sea levels;
-* facts about celestial objects, such as estimated age, speed of orbit, compositions; 
-* facts about the human body, such as ...
-* facts about other animals and plants, such as number of species in a continent;
-* facts about objects, such as weight, speed;
-* the list goes on! 
-
-##### Textual 
+:::{tab-item} Textual
 Textual data (words) can be found in different ways: 
 * parliamentary debates; 
 * newspaper articles; 
@@ -51,9 +34,10 @@ Textual data (words) can be found in different ways:
 * diaries; 
 * open-ended questions; 
 * the list goes on!  
+:::
 
-##### Audio 
-Audio data can include:
+
+:::{tab-item} Audio
 * recordings of people speaking a specific language;
 * recordings of an interview; 
 * radio announcements; 
@@ -61,9 +45,10 @@ Audio data can include:
 * animal calls/sounds;
 * soundscapes;
 * the list goes on!
+:::
 
-##### Visual data 
-Visual data can be found or collected by the researcher, for example:
+
+:::{tab-item} Visual data
 * pictures;
 * social media posts;
 * ads;
@@ -72,8 +57,10 @@ Visual data can be found or collected by the researcher, for example:
 * photographs of celestial bodies; 
 * X-ray scans; 
 * the list goes on!
+:::
 
-##### Audio-visual data 
+
+:::{tab-item} Audio-visual data 
 * video-recordings of interviews or focus groups; 
 * video-recordings of crime scenes;
 * video-recordings of birds coupling dances; 
@@ -85,8 +72,10 @@ Visual data can be found or collected by the researcher, for example:
 * video-recording of an experiment;
 * achival footage;
 * the list goes on!
+:::
 
-##### Spatial data 
+
+:::{tab-item} Spatial data 
 * Floor plans;
 * urban development plans; 
 * archival municipality documentation;
@@ -94,8 +83,10 @@ Visual data can be found or collected by the researcher, for example:
 * distribution of services in an area; 
 * geolocation data; 
 * the list goes on!
+:::
 
-##### Samples and artifacts  
+
+:::{tab-item} Samples and artifacts 
 These are physical data that are collected and stored by the researcher, such as; 
 * human biological samples (DNA, blood, saliva, etc.);
 * animal biological samples ();
@@ -104,8 +95,10 @@ These are physical data that are collected and stored by the researcher, such as
 * archeological artifacts (pottery, jewelry, clothing, coins, human remains, etc.)
 * modern artifacts (letters, drawings, artworks, etc.)
 * the list goes on!
+:::
 
-##### Lived experience 
+
+:::{tab-item} Lived experience
 As a researcher, your lived experience can also constitute data, for example: 
 * memories of fieldwork; 
 * interaction with participants; 
@@ -114,7 +107,15 @@ As a researcher, your lived experience can also constitute data, for example:
 * and more!
 
 
+:::
 
+::::
+
+
+```{admonition} What do you think?
+Which data is commonly used in your field? 
+Which data do you find interesting?
+```
 
 
 

@@ -40,4 +40,11 @@ Topics like "Ethics & Integrity", "Privacy & Security", or "Copyright" are also 
 
 Finally, keep in mind that, despite what the map shows, navigating the landscape is rarely so straightforward. Tackling each step or topic can demand a lot of time and/or resources. Nevertheless, having a sense of direction while navigating throughout such complexity is a sign of literacy!
 
-**What do you think? Do you agree with all representations in the illustrations above? What other examples can you think of where *data*, *digital* and *information* literacy intersect? Can you describe a case that is potentially prominent within your own discipline?**
+% example: using an admonition for questions to the public. We could also create a custom one, see example: https://oit.tudelft.nl/CME4501/2024/pages/Unconstrained_optimization.html  
+
+```{admonition} What do you think?
+Do you agree with all representations in the illustrations above? 
+What other examples can you think of where *data*, *digital* and *information* literacy intersect? 
+Can you describe a case that is potentially prominent within your own discipline?
+```
+
