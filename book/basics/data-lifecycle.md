@@ -29,3 +29,5 @@ In research, data goes through different stages. In this framework, the process 
 *note: this video uses examples from STEM*
 ```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 ```
+```
+
