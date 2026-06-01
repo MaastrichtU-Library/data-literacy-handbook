@@ -30,11 +30,11 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :showanswer:
 
 ---
-[x] personal data
-[ ] questioning data
-[x] qualitative data
-[x] census data
-[ ] transitive data
+[ ] personal data
+[x] questioning data
+[ ] qualitative data
+[ ] census data
+[x] transitive data
 ---
 ::::
 
@@ -46,6 +46,8 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :showanswer:
 
 ---
+[ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
+> Try again! This quote is attributed to Ruha Benjamin 
 [ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
 > Try again! This quote is attributed to Mark Twain  
 [ ] Without data, you're just another person with an opinion.
@@ -56,6 +58,8 @@ Data literacy is of course relevant in the research domain, as without it we wou
 > Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
 [ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
 > Try again! This quote is attributed to John Naisbitt
+[ ] Data are records of activity; they can be recoded to reveal patterns that would otherwise remain hidden.
+> Try again! This quote is attributed to Shoshana Zuboff
 
 ---
 ::::
@@ -68,33 +72,54 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :showanswer:
 
 ---
-[ ] .xls
+[x] .xls
 > Indeed! All the other formats are independent of specfic software, developers, or vendors, while .xls is a format developed and used in the Microsoft Office system. While it can be opened by other software as well, this may cause errors.  
 [ ] .csv
 > Try again!   
 [ ] .txt
 > Try again! 
-[x] .odt
+[ ] .odt
 > Try again!  
 ---
 ::::
 
-
-::::{question}
+::::{question} What does "data provenance" refer to?
+:admonition:
+:class: teachbooks-question
 :type: multiple-choice
 :variant: single-select
 :showanswer:
-:nocaption:
-:columns: 2
 
-A commit message and description are only necessary when collaborating with others on a Git-based book project; solo authors do not benefit from writing detailed commit messages.
 ---
-[ ] True
-> Commit messages and descriptions are crucial for providing context about changes, making it easier to understand why a change was made, not just what was changed. They help developers (including your future self) track progress, collaborate effectively, and debug issues efficiently.
-[x] False
-> Exactly, well-written commit messages improve project maintainability and make it easier to revert changes if necessary also for solo authors.
+[ ] the size of a dataset
+> Try again! 
+[ ] the analysis results
+> Try again!   
+[ ] the number of variables in a dataset
+> Try again! 
+[x] the origin, history, and processing steps of the data
+> Indeed!  
 ---
+::::
 
+::::{question} In the list below, what could be considere the most problematic consent practice from an ethical perspective when working with human participants?
+:admonition:
+:class: teachbooks-question
+:type: multiple-choice
+:variant: single-select
+:showanswer:
+
+---
+[ ] explicit informed consent
+> Obtaining explicit informed consent is a good and recommended practice within research. 
+[ ] oral consent
+> Informed consent can be obtained orally provided that this is well documented by the researcher (via recording and/or a log). This may be appropriate especially when working with (semi-)illiterate participants or communities that may distrust physical forms. 
+[ ] continuous consent
+> In continuous consent the researcher check-in on the participants at multiple points during the project to ensure that the participant is still willing to paricipate. In research projects in which the researcher and the participants are in contact multiple times and/or for a longer period of time, this can hlp build trust between the researcher and the participants. 
+[x] opt-out consent
+> Ideed, opt-out procedures may be justified only in special circumstances and must be reviewd by and Ethics Review Committee.
+
+---
 ::::
 
 :::::
