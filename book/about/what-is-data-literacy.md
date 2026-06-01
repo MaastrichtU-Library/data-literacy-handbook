@@ -15,3 +15,11 @@ As you might have noticed in the definition above, there are multiple competence
 **Will developing my data literacy make me a better researcher?**
 
 Yes, but there are also other fundamental academic skills when working with data and information, whether physical or digital. Becoming data literate will also require you to develop some [related literacies](../basics/related-literacies-overlap.md), namely _digital_ literacy and _information_ literacy.
+
+
+```{admonition} Delve deeper into this subject:
+:class: seealso darkgreen
+*note: this video uses examples from STEM*
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
+```

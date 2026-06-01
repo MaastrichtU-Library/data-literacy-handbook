@@ -18,15 +18,8 @@ In research, data goes through different stages. In this framework, the process 
 * a **reuse** stage where data that was published is used in a different research project.  
 
 ```{admonition} Delve deeper into this subject:
-:class: tip
+:class: seealso darkgreen
 
-```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
-```
-```
-
-```{admonition} Delve deeper into this subject:
-:class: seealso
-*note: this video uses examples from STEM*
 ```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 ```
 ```
