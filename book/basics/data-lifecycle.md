@@ -23,23 +23,3 @@ In research, data goes through different stages. In this framework, the process 
 ```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 ```
 ```
-
-%Questions syntax:
-%:::{question} <Title>
-%:label: <label>
-%:type: <type>
-%:variant: <variant>
-%:columns: <columns>
-%:class: <class>
-%:admonition:
-%:nocaption:
-%:showanswer:
-
-%<pre-question>
-%---
-%<question>
-%---
-%<post-question>
-%:::
-
-
