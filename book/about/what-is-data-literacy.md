@@ -19,6 +19,5 @@ Yes, but there are also other fundamental academic skills when working with data
 
 ```{admonition} Delve deeper into this subject:
 :class: seealso darkgreen
-*note: this video uses examples from STEM*
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
