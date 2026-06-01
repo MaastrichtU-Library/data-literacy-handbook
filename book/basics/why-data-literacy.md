@@ -10,8 +10,9 @@ Navigating today’s data-rich world requires critical thinking and the ability 
 
 Data literacy is of course relevant in the research domain, as without it we would not manage to work with the data and provide meaningful results. Beyond the research domain, data literacy is important to critically evaluate the data and results that are presented to us in the news and to effectively use the insights gained for making policy and businss decisions. "Data-driven decisions" is a buzzword. "Big-data" is also a buzz-word. Both show that data is important right now. This Handbook lays the basics for data literacy in the research domain.
 
+## Are you up for a little challenge? Answer the following questions to check your familiarity with data!
 
-:::::{card} Are you up for a little challenge? Answer the following questions to check your familiarity with data!
+:::::{card}
 
 ::::{question} What are some synonyms for data? 
 :admonition:
