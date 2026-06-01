@@ -19,9 +19,8 @@ In research, data goes through different stages. In this framework, the process 
 
 ```{admonition} Delve deeper into this subject:
 :class: seealso darkgreen
-
-```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 *note: this video uses examples mainly from STEM.*
+```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 ```
 
 
