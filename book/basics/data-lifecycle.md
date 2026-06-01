@@ -9,8 +9,13 @@ In research, data goes through different stages. In this framework, the process 
 * a **publishing** stage when the data and/or the results of the analysis are made public.  namely planning for the data, data collection or acquisition, data processing and analysing;
 * a **reuse** stage where data that was published is used in a different research project.  
 
-% Insert Scriberia illustration of research data lifecycle
-
+```{figure} figures/research-cycle.jpg
+---
+width: 80%
+align: center
+---
+The Turing Way Community \& Scriberia. (2024). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. \url{https://doi.org/10.5281/zenodo.13882307}
+```
 %Questions syntax:
 %:::{question} <Title>
 %:label: <label>
