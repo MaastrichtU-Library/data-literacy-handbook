@@ -1,5 +1,13 @@
 # What is the Research Data Lifecycle?
 
+```{figure} ../figures/research-cycle.jpg
+---
+width: 80%
+align: center
+---
+Research Data Lifecyle {cite:p}`turing-way-scriberia-images` 
+```
+
 In research, data goes through different stages. In this framework, the process is seen as circular, as data can go through the same stages multiple times. Research data lifecycle phases:
 
 * a **planning** phase where the idea for which data to sue for which purpose and how to treat it is defined;
@@ -9,13 +17,13 @@ In research, data goes through different stages. In this framework, the process 
 * a **publishing** stage when the data and/or the results of the analysis are made public.  namely planning for the data, data collection or acquisition, data processing and analysing;
 * a **reuse** stage where data that was published is used in a different research project.  
 
-```{figure} ../figures/research-cycle.jpg
----
-width: 80%
-align: center
----
-Research Data Lifecyle {cite:p}`turing-way-scriberia-images` 
+```{admonition} Delve deeper into this subject:
+:class: tip
+
+```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
 ```
+```
+
 %Questions syntax:
 %:::{question} <Title>
 %:label: <label>
