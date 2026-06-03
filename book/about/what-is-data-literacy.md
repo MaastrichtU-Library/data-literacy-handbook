@@ -16,8 +16,22 @@ As you might have noticed in the definition above, there are multiple competence
 
 Yes, but there are also other fundamental academic skills when working with data and information, whether physical or digital. Becoming data literate will also require you to develop some [related literacies](../basics/related-literacies-overlap.md), namely _digital_ literacy and _information_ literacy.
 
+:::::{card} Delve deeper into this subject!
+:class: seealso darkgreen 
+*If you want to elarn more about this topic, consider one of the following material(s):*
 
-```{admonition} Delve deeper into this subject:
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions (TEDx Talks)
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
+:::::
+
+:::::{card} Delve deeper into this subject!
+
+*If you want to elarn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions (TEDx Talks)
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
+:::::

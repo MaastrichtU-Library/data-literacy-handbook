@@ -36,7 +36,8 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :type: multiple-choice
 :variant: multiple-select
 :showanswer:
-What is not a kind of data? Find the impostor(s)
+:nocaption:
+
 ---
 [ ] personal data
 [x] questioning data
@@ -52,6 +53,7 @@ What is not a kind of data? Find the impostor(s)
 :type: multiple-choice
 :variant: single-select
 :showanswer:
+:nocaption:
 
 ---
 [ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
@@ -78,7 +80,7 @@ What is not a kind of data? Find the impostor(s)
 :type: multiple-choice
 :variant: single-select
 :showanswer:
-
+:nocaption:
 ---
 [x] .xls
 > Indeed! All the other formats are independent of specfic software, developers, or vendors, while .xls is a format developed and used in the Microsoft Office system. While it can be opened by other software as well, this may cause errors.  
@@ -97,7 +99,7 @@ What is not a kind of data? Find the impostor(s)
 :type: multiple-choice
 :variant: single-select
 :showanswer:
-
+:nocaption:
 ---
 [ ] the size of a dataset
 > Try again! 
@@ -116,7 +118,7 @@ What is not a kind of data? Find the impostor(s)
 :type: multiple-choice
 :variant: single-select
 :showanswer:
-
+:nocaption:
 ---
 [ ] explicit informed consent
 > Obtaining explicit informed consent is a good and recommended practice within research. 
