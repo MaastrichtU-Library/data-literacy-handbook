@@ -19,8 +19,8 @@ sphinx:                                              # Options passed on to the 
   extra_extensions:                                  # Sets a list of extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     - teachbooks_favourites                          # Gives you a starter package of extensions to use in your book, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
     - sphinx_design             # Containers (labelled containers) as explained in : https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html 
-    # - indexed_definitions # Definitions extenstion
-    - teachbooks_questions     # extension ofr quizzes
+    - sphinx_indexed_definitions # Definitions extension (https://pypi.org/project/sphinx-indexed-definitions/)
+    - teachbooks_questions     # extension for quizzes 
     #- sphinx-sticky-margin      # sphinx sticky margin (admonitions) as explained in https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Sticky-Margin/main/MANUAL.html
     - sphinx_named_colors       # custom colours for admonitions
     - sphinx_apa_references     # APA references extension

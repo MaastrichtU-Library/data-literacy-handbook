@@ -104,6 +104,7 @@ parts:
   
   - caption: Miscellaneous
     chapters:
+    - file: genindex.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
