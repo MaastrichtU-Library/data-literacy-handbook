@@ -12,6 +12,10 @@ As you might have noticed in the definition above, there are multiple competence
 <br><sub> Figure 1. <em>The Turing Way </em> Community. This illustration is created by Scriberia with  <em>The Turing Way</em> community, used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></sub>
 <br><br>
 
+#### this title should not show in the TOC
+### this title should not show in the TOC
+## this title should show in the TOC
+
 **Will developing my data literacy make me a better researcher?**
 
 Yes, but there are also other fundamental academic skills when working with data and information, whether physical or digital. Becoming data literate will also require you to develop some [related literacies](../basics/related-literacies-overlap.md), namely _digital_ literacy and _information_ literacy.

@@ -25,7 +25,20 @@ Data literacy is of course relevant in the research domain, as without it we wou
 
 ### test admonition A  (test note lightgrey + sticky-note)
 
-```{note} Delve deeper into this subject! test note lightgrey + sticky-note
+```{admonition} Delve deeper into this subject! test note lightgrey + sticky-note
+:class: note lightgrey sticky-note
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+
+### test admonition B  (lightgrey sticky-note)
+
+
+```{admonition} Delve deeper into this subject! 
 :class: lightgrey sticky-note
 *If you want to learn more about this topic, consider one of the following material(s):*
 
@@ -33,114 +46,11 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
----
 
+### test admonition C  (no title)
 
-### test admonition B  (lightgrey no-title)
-::::{admonition} 
-:class: lightgrey no-title
-Delve deeper into this subject! 
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #2)
-
-Content
-::::
-
-### test admonition C  ()
-
-::::{lightgrey} 
-
-Delve deeper into this subject! 
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #3)
-
-Content
-::::
-
-### test admonition D  ()
-
-::::{lightgrey} Delve deeper into this subject! 
-
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #4)
-
-Content
-::::
-
-### test admonition E  ()
-
-```{lightgrey} Delve deeper into this subject! 
-:class: sticky-margin
-
-This content will appear in the sticky margin when the original element scrolls out of view.
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> ```
-```
-### test admonition F  ()
-```{admonition} 
-:class: sticky-margin no-title
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> ```
-```
-
-## Test Quotes
-### test quote A  ()
-
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-
-### test quote B  ()
-
-:::::{card} Delve deeper into this subject! - test card quote
-:class: sticky-note
-*If you want to learn more about this topic, consider one of the following material(s):*
-
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-
-:::::
-### test quote C  ()
-
-:::::{card} Delve deeper into this subject! - test card quote
-:class: sticky-note
-*If you want to learn more about this topic, consider one of the following material(s):*
-
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-
-:::::
-
-
-```{admonition} Delve deeper into this subject! test normal admonition nonote
-:class: lightgrey 
+```{lightgrey} 
+**Delve deeper into this subject!** 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -149,9 +59,82 @@ This content will appear in the sticky margin when the original element scrolls 
 ```
 
 
+### test admonition D  (no title, show bar)
+
+```{lightgrey}
+:class: show-bar 
+**Delve deeper into this subject!** 
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+### test admonition E  (lightanddark)
+
+
+```{admonition} Delve deeper into this subject! 
+:class: lightanddark 
+**Delve deeper into this subject!** 
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+
+### test admonition F  (sticky-note outside)
+
+```{lightgrey} Delve deeper into this subject! 
+:class: sticky-margin
+
+This content will appear in the sticky margin when the original element scrolls out of view.
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+ ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: seealso darkgreen dropdown
+ ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+ 
+```
+### test admonition F  (sticky note inside)
+```{lightgrey} Delve deeper into this subject! 
+This content will appear in the sticky margin when the original element scrolls out of view.
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+ ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: seealso darkgreen dropdown sticky-margin
+ ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+ 
+```
+## Test Quotes
+### test quote A  ( basic quote)
+
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown s
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+### test quote B  ( basic quote, stick see also)
+
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown sticky-margin
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+
+
+
 ## Cards
 
-### test card A
+### test card A (no sticky)
 
 To change the colour of the background you need to define CSS variables 
 
@@ -161,7 +144,7 @@ Header that we can change
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-:class: seealso darkgreen dropdown
+:class: seealso darkgreen dropdown 
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
 
@@ -169,7 +152,7 @@ Header that we can change
 Footer that we can change
 :::::
 
-
+### test card B (sticky)
 
 :::::{card}
 
@@ -178,7 +161,7 @@ Footer that we can change
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-:class: seealso darkgreen dropdown
+:class: seealso darkgreen dropdown sticky-margin
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
 
@@ -187,7 +170,7 @@ Footer that we can change
 :::::
 
 
-
+### test card C (image as background = bad idea)
 
 :::::{card} Delve deeper into this subject! - test background colour
 :img-background: ../figures/pink.jpg
@@ -207,6 +190,7 @@ Footer that we can change
 :::::
 
 
+## Quiz
 
 :::::{card}
 
