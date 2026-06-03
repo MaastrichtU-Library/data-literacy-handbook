@@ -23,10 +23,10 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ## Admonitions
 
 
-### test admonition A  (test note lightgrey + sticky-note)
+### test admonition A  (test note lightgrey)
 
 ```{admonition} Delve deeper into this subject! test note lightgrey + sticky-note
-:class: note lightgrey sticky-margin
+:class: note lightgrey
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -47,9 +47,10 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
 
-### test admonition C  (no title)
+### test admonition C  (no title -sticky?)
 
-```{lightgrey} 
+```{lightgrey}
+:class: sticky-margin
 **Delve deeper into this subject!** 
 
 *If you want to learn more about this topic, consider one of the following material(s):*
@@ -100,7 +101,7 @@ This content will appear in the sticky margin when the original element scrolls 
  ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
  
 ```
-### test admonition F  (sticky note inside)
+### test admonition F  (sticky note inside - does not work - possibly because dropdown?)
 ```{lightgrey} Delve deeper into this subject! 
 
 *If you want to learn more about this topic, consider one of the following material(s):*
@@ -111,7 +112,7 @@ This content will appear in the sticky margin when the original element scrolls 
  
 ```
 
-### test admonition G  (double dropdown, sticky note out)
+### test admonition G  (double dropdown, sticky note out - does not work - possibly because dropdown?)
 ```{dropdown} Delve deeper into this subject! 
 :class: lightgrey sticky-margin
 
@@ -123,6 +124,49 @@ This content will appear in the sticky margin when the original element scrolls 
  
 ```
 
+### test admonition H  (topic sticky-note)
+
+
+```{topic} Delve deeper into this subject!  sitcky outside and lightgrey 
+:class: lightgrey sticky-margin
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+OR
+
+```{topic} Delve deeper into this subject! sticky outside
+:class: sticky-margin
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+OR
+
+
+```{topic} Delve deeper into this subject! no dropdown sticky inside
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen sticky-margin
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+OR
+
+```{topic} Delve deeper into this subject! no sticky
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
 
 ## Test Quotes
 ### test quote A  ( basic quote)
