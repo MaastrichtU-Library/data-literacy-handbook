@@ -20,6 +20,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :type: multiple-choice
 :variant: multiple-select
 :showanswer:
+:nocaption:
 
 ---
 [x] facts
