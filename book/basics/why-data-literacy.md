@@ -108,6 +108,20 @@ This content will appear in the sticky margin when the original element scrolls 
  ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
  
 ```
+
+### test admonition G  (double dropdown, sticky note out)
+```{dropdown} Delve deeper into this subject! 
+:class: lightgrey sticky-margin
+This content will appear in the sticky margin when the original element scrolls out of view.
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+ ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: seealso darkgreen dropdown 
+ ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+ 
+```
+
+
 ## Test Quotes
 ### test quote A  ( basic quote)
 
