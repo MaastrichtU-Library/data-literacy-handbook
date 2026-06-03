@@ -5,7 +5,7 @@ Navigating today’s data-rich world requires critical thinking and the ability 
 Data literacy is of course relevant in the research domain, as without it we would not manage to work with the data and provide meaningful results. Beyond the research domain, data literacy is important to critically evaluate the data and results that are presented to us in the news and to effectively use the insights gained for making policy and businss decisions. "Data-driven decisions" is a buzzword. "Big-data" is also a buzz-word. Both show that data is important right now. This Handbook lays the basics for data literacy in the research domain.
 
 
-```{admonition} Delve deeper into this subject!
+```{admonition} Delve deeper into this subject! test normal admonition
 :class: lightgrey note
 *If you want to learn more about this topic, consider one of the following material(s):*
 
@@ -16,7 +16,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ---
 
 
-:::::{card} Delve deeper into this subject! - test background colour
+:::::{card} Delve deeper into this subject! - test card
 :class-card: lightgrey
 Header that we can change
 ^^^
@@ -31,6 +31,35 @@ Header that we can change
 Footer that we can change
 :::::
 
+::::{admonition} Delve deeper into this subject! 
+class: lightgrey
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition lightgrey #1)
+
+Content
+::::
+
+::::{admonition} 
+class: grey
+Delve deeper into this subject! 
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition grey #2)
+
+Content
+::::
+
+
+
+```{admonition} Delve deeper into this subject! test normal admonition nonote
+:class: lightgrey 
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
 
 :::::{card}
 
@@ -46,6 +75,9 @@ Footer that we can change
 +++
 Footer that we can change
 :::::
+
+
+
 
 :::::{card} Delve deeper into this subject! - test background colour
 :img-background: ../figures/pink.jpg
