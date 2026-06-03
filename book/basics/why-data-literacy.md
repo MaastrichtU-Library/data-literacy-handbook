@@ -86,18 +86,22 @@ Content
 ::::
 
 
-````md
-::::{lightgrey} 
+```{admonition} This is a sticky margin admonition
+:class: sticky-margin
 
-:class: show-bar sticky-margin
-**Delve deeper into this subject!**
+This content will appear in the sticky margin when the original element scrolls out of view.
+```
 
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #5)
-
-Content
-::::
-````
+```{admonition} This is a sticky margin admonition
+:class: sticky-margin
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> ```
 
 > **Delve deeper into this subject! - test quote**
 > 
