@@ -32,7 +32,7 @@ Footer that we can change
 :::::
 
 ::::{admonition} Delve deeper into this subject! 
-class: lightgrey
+:class: light-dark
 
 *If you want to learn more about this topic, consider one of the following material(s):*
 (test admonition lightgrey #1)
@@ -41,7 +41,7 @@ Content
 ::::
 
 ::::{admonition} 
-class: grey
+class: lightgrey no-title
 Delve deeper into this subject! 
 
 *If you want to learn more about this topic, consider one of the following material(s):*
