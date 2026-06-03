@@ -33,7 +33,7 @@ Footer that we can change
 :::::
 
 :::::{card} Delve deeper into this subject! - test background colour
-:attr: style="background-color: #d3d3d3; color: #222222;"
+:attr: background-color: #d3d3d3
 
 Header that we can change
 ^^^
