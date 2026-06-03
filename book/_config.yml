@@ -21,6 +21,7 @@ sphinx:                                              # Options passed on to the 
     - sphinx_design             # Containers (labelled containers) as explained in : https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html 
     # - indexed_definitions # Definitions extenstion
     - teachbooks_questions     # extension ofr quizzes
+    - sphinx-sticky-margin      # sphinx sticky margin (admonitions) as explained in https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Sticky-Margin/main/MANUAL.html
     - sphinx_named_colors       # custom colours for admonitions
     - sphinx_apa_references     # APA references extension
   local_extension: null                              # Sets a a list of local extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)

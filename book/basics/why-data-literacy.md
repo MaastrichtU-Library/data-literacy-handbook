@@ -13,6 +13,42 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
+---
+
+
+
+:::::{card} Delve deeper into this subject!
+:img-background: ../figures/research-cycle.jpg
+
+Header that we can change
+^^^
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
+
++++
+Footer that we can change
+:::::
+
+
+:::::{card} Delve deeper into this subject!
+
+Header that we can change
+^^^
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
+
++++
+Footer that we can change
+:::::
+
 
 
 :::::{card}
