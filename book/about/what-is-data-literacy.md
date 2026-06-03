@@ -20,18 +20,18 @@ Yes, but there are also other fundamental academic skills when working with data
 :class: seealso darkgreen 
 *If you want to elarn more about this topic, consider one of the following material(s):*
 
-```{admonition} VIDEO: Data Literacy and the Art of Asking Questions (TEDx Talks)
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
 :::::
 
-:::::{card} Delve deeper into this subject!
-
+```{admonition} Delve deeper into this subject!
+:class: seealso darkgreen 
 *If you want to elarn more about this topic, consider one of the following material(s):*
 
-```{admonition} VIDEO: Data Literacy and the Art of Asking Questions (TEDx Talks)
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
-:::::
+```
