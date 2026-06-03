@@ -26,7 +26,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ### test admonition A  (test note lightgrey + sticky-note)
 
 ```{admonition} Delve deeper into this subject! test note lightgrey + sticky-note
-:class: note lightgrey sticky-note
+:class: note lightgrey sticky-margin
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -39,7 +39,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 
 
 ```{admonition} Delve deeper into this subject! 
-:class: lightgrey sticky-note
+:class: lightgrey sticky-margin
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -51,6 +51,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 
 ```{lightgrey} 
 **Delve deeper into this subject!** 
+
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -64,6 +65,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ```{lightgrey}
 :class: show-bar 
 **Delve deeper into this subject!** 
+
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -71,11 +73,11 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
 
-### test admonition E  (lightanddark)
+### test admonition E  (grey)
 
 
 ```{admonition} Delve deeper into this subject! 
-:class: lightanddark 
+:class: grey 
 **Delve deeper into this subject!** 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
@@ -100,11 +102,11 @@ This content will appear in the sticky margin when the original element scrolls 
 ```
 ### test admonition F  (sticky note inside)
 ```{lightgrey} Delve deeper into this subject! 
-This content will appear in the sticky margin when the original element scrolls out of view.
+
 *If you want to learn more about this topic, consider one of the following material(s):*
 
- ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
- :class: seealso darkgreen dropdown sticky-margin
+ ```{seealso} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: darkgreen dropdown sticky-margin
  ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
  
 ```
@@ -112,7 +114,7 @@ This content will appear in the sticky margin when the original element scrolls 
 ### test admonition G  (double dropdown, sticky note out)
 ```{dropdown} Delve deeper into this subject! 
 :class: lightgrey sticky-margin
-This content will appear in the sticky margin when the original element scrolls out of view.
+
 *If you want to learn more about this topic, consider one of the following material(s):*
 
  ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
@@ -174,8 +176,8 @@ Footer that we can change
 ^^^
 *If you want to learn more about this topic, consider one of the following material(s):*
 
-```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-:class: seealso darkgreen dropdown sticky-margin
+```{seealso} VIDEO: Data Literacy and the Art of Asking Questions
+:class: darkgreen dropdown sticky-margin
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
 
