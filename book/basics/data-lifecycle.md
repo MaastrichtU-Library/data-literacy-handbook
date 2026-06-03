@@ -1,6 +1,8 @@
 # What is the Research Data Lifecycle?
 
 ```{figure} ../figures/research-cycle.jpg
+:name: sticky_basic
+:figclass: sticky-margin
 ---
 width: 80%
 align: center

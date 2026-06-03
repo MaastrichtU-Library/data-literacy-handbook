@@ -17,9 +17,9 @@ Data literacy is of course relevant in the research domain, as without it we wou
 
 
 
-:::::{card} Delve deeper into this subject!
+:::::{card}
 
-Header that we can change
+**Delve deeper into this subject!**
 ^^^
 *If you want to learn more about this topic, consider one of the following material(s):*
 
