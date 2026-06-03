@@ -26,6 +26,16 @@ sphinx:                                              # Options passed on to the 
     - sphinx_apa_references     # APA references extension
   local_extension: null                              # Sets a a list of local extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
   config:
+  # start config for indexed definitions as per sphinx documentation: https://pypi.org/project/sphinx-indexed-definitions/
+    sphinx_indexed_defs_indexed_nodes:     ['strong','emphasis'] # default value
+    sphinx_indexed_defs_skip_indices:      []                    # default value
+    sphinx_indexed_defs_lowercase_indices: true                  # default value
+    sphinx_indexed_defs_index_titles:      true                  # default value
+    sphinx_indexed_defs_capital_words:     []                    # default value
+    sphinx_indexed_defs_remove_brackets:   true                  # default value
+    sphinx_indexed_defs_force_main:        true                  # default value
+    sphinx_indexed_defs_index_theorems:    true                  # default value
+    # end config for indexed definitions
     language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js # Required for live code, part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)

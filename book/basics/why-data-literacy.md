@@ -32,6 +32,22 @@ Header that we can change
 Footer that we can change
 :::::
 
+:::::{card} Delve deeper into this subject! - test background colour
+:attr: style="background-color: #d3d3d3; color: #222222;"
+
+Header that we can change
+^^^
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
+
++++
+Footer that we can change
+:::::
+
 
 
 :::::{card}
