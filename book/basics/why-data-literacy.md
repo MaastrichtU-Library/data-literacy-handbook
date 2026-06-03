@@ -195,7 +195,7 @@ Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus pu
 > ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 
 
-##Test forcing into magin (no sticky note)
+## Test forcing into magin (no sticky note)
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
 
@@ -270,7 +270,9 @@ Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus pu
 
 
 ```{margin}
-:::::{card} Delve deeper into this subject! - test card margin
+:::::{card}
+
+**Delve deeper into this subject! - test card margin**
 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
