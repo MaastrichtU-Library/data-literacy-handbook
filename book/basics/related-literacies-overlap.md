@@ -52,3 +52,32 @@ What other examples can you think of where *data*, *digital* and *information* l
 Can you describe a case that is potentially prominent within your own discipline?
 ```
 
+```{admonition} Reflect on this topic!
+:class: tip orchid
+
+Do you agree with all representations in the illustrations above?
+
+What other examples can you think of where *data*, *digital* and *information* literacy intersect?
+
+Can you describe a case that is potentially prominent within your own discipline?
+```
+
+```{admonition} Reflect on this topic!
+:class: tip mediumorchid
+
+Do you agree with all representations in the illustrations above?
+
+What other examples can you think of where *data*, *digital* and *information* literacy intersect?
+
+Can you describe a case that is potentially prominent within your own discipline?
+```
+
+```{admonition} Reflect on this topic!
+:class: tip darkorchid
+
+Do you agree with all representations in the illustrations above?
+
+What other examples can you think of where *data*, *digital* and *information* literacy intersect?
+
+Can you describe a case that is potentially prominent within your own discipline?
+```
