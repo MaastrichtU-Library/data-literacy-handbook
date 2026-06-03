@@ -179,7 +179,7 @@ OR
 > :class: seealso darkgreen dropdown s
 > ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 
-### test quote B  ( basic quote, stick see also)
+### test quote B  ( basic quote, stick see also deos not work because dropdown)
 
 > **Delve deeper into this subject! - test quote**
 > 
@@ -190,8 +190,56 @@ OR
 > ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 
 
+##Test forcing into magin (no sticky note)
+### force margin A 1
 
+```{margin}
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown 
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
 
+OR
+
+```{dropdown} Delve deeper into this subject! 2
+:class: lightgrey margin
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+ ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: seealso darkgreen dropdown 
+ ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+ 
+```
+OR
+
+```{margin}
+```{dropdown} Delve deeper into this subject! 3
+:class: sticky-margin
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+ ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+ :class: seealso darkgreen dropdown 
+ ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+```
+
+### force margin B ( basic quote, stick see also)
+
+```{margin}
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown 
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+```
 ## Cards
 
 ### test card A (no sticky)
