@@ -168,6 +168,11 @@ OR
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
 
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
 ## Test Quotes
 ### test quote A  ( basic quote)
 
@@ -191,10 +196,14 @@ OR
 
 
 ##Test forcing into magin (no sticky note)
-### force margin A 1
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+### force margin A 
 
 ```{margin}
-> **Delve deeper into this subject! - test quote**
+> **Delve deeper into this subject! - test quote in margin force test 1**
 > 
 > *If you want to learn more about this topic, consider one of the following material(s):*
 >
@@ -205,7 +214,11 @@ OR
 
 OR
 
-```{dropdown} Delve deeper into this subject! 2
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
+```{dropdown} Delve deeper into this subject! test margin 2
 :class: lightgrey margin
 
 *If you want to learn more about this topic, consider one of the following material(s):*
@@ -217,10 +230,12 @@ OR
 ```
 OR
 
-```{margin}
-```{dropdown} Delve deeper into this subject! 3
-:class: sticky-margin
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
 
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
+```{margin}
+```{dropdown} Delve deeper into this subject! test margin 3
 *If you want to learn more about this topic, consider one of the following material(s):*
 
  ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
@@ -229,10 +244,15 @@ OR
 
 ```
 
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
 ### force margin B ( basic quote, stick see also)
 
 ```{margin}
-> **Delve deeper into this subject! - test quote**
+> **Delve deeper into this subject! - test quote force margin**
 > 
 > *If you want to learn more about this topic, consider one of the following material(s):*
 >
@@ -240,6 +260,30 @@ OR
 > :class: seealso darkgreen dropdown 
 > ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
+
+### force margin C (card, for margin)
+
+
+
+```{margin}
+:::::{card} Delve deeper into this subject! - test card margin
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown 
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+:::::
+```
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus auctor vestibulum. Quisque at consectetur velit. In odio orci, placerat nec diam id, vehicula sollicitudin erat. Suspendisse auctor quis urna non facilisis. Aenean pulvinar tincidunt sapien vitae elementum. Nullam vulputate mauris ut erat hendrerit, sed sagittis lacus sodales. Vivamus efficitur tristique diam, semper faucibus nisl tempus eget. Cras at justo in mi sagittis lacinia sit amet sed lacus. Suspendisse lacinia bibendum est sit amet elementum.
+
+Sed vel commodo est. Curabitur congue non turpis ut tempor. Curabitur finibus purus quis nisl dapibus, lacinia hendrerit ipsum iaculis. Fusce a ligula ac purus blandit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum facilisis diam. Integer vel tincidunt nisi. Nam tincidunt urna lacus, nec volutpat felis ultrices ut. Suspendisse vitae elit vel neque gravida eleifend. Suspendisse at nisl sed mi pretium venenatis. Vestibulum eu sapien eget turpis pellentesque scelerisque. Ut consectetur bibendum consectetur. Proin sed orci nisi. 
+
 ## Cards
 
 ### test card A (no sticky)
