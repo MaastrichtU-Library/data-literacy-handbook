@@ -5,7 +5,7 @@
 
 ```{note}
 
-test sticky margin
+test sticky margin for defining audience
 
 ```
 
@@ -20,9 +20,13 @@ Navigating today’s data-rich world requires critical thinking and the ability 
 
 Data literacy is of course relevant in the research domain, as without it we would not manage to work with the data and provide meaningful results. Beyond the research domain, data literacy is important to critically evaluate the data and results that are presented to us in the news and to effectively use the insights gained for making policy and businss decisions. "Data-driven decisions" is a buzzword. "Big-data" is also a buzz-word. Both show that data is important right now. This Handbook lays the basics for data literacy in the research domain.
 
+## Admonitions
 
-```{admonition} Delve deeper into this subject! test normal admonition
-:class: lightgrey note
+
+### test admonition A  (test note lightgrey + sticky-note)
+
+```{note} Delve deeper into this subject! test note lightgrey + sticky-note
+:class: lightgrey sticky-note
 *If you want to learn more about this topic, consider one of the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
@@ -32,8 +36,126 @@ Data literacy is of course relevant in the research domain, as without it we wou
 ---
 
 
+### test admonition B  (lightgrey no-title)
+::::{admonition} 
+:class: lightgrey no-title
+Delve deeper into this subject! 
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition grey #2)
+
+Content
+::::
+
+### test admonition C  ()
+
+::::{lightgrey} 
+
+Delve deeper into this subject! 
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition grey #3)
+
+Content
+::::
+
+### test admonition D  ()
+
+::::{lightgrey} Delve deeper into this subject! 
+
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition grey #4)
+
+Content
+::::
+
+### test admonition E  ()
+
+```{lightgrey} Delve deeper into this subject! 
+:class: sticky-margin
+
+This content will appear in the sticky margin when the original element scrolls out of view.
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> ```
+```
+### test admonition F  ()
+```{admonition} 
+:class: sticky-margin no-title
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> ```
+```
+
+## Test Quotes
+### test quote A  ()
+
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+### test quote B  ()
+
+:::::{card} Delve deeper into this subject! - test card quote
+:class: sticky-note
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+:::::
+### test quote C  ()
+
+:::::{card} Delve deeper into this subject! - test card quote
+:class: sticky-note
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+
+:::::
+
+
+```{admonition} Delve deeper into this subject! test normal admonition nonote
+:class: lightgrey 
+*If you want to learn more about this topic, consider one of the following material(s):*
+
+```{admonition} VIDEO: Why everyone should be data literate
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
+```
+
+
+## Cards
+
+### test card A
+
+To change the colour of the background you need to define CSS variables 
+
 :::::{card} Delve deeper into this subject! - test card
-:class-card: lightgrey
 Header that we can change
 ^^^
 *If you want to learn more about this topic, consider one of the following material(s):*
@@ -47,97 +169,7 @@ Header that we can change
 Footer that we can change
 :::::
 
-::::{admonition} Delve deeper into this subject! 
-:class: lightanddark
 
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition lightgrey #1)
-
-Content
-::::
-
-::::{admonition} 
-:class: lightgrey no-title
-Delve deeper into this subject! 
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #2)
-
-Content
-::::
-
-::::{lightgrey} 
-
-Delve deeper into this subject! 
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #3)
-
-Content
-::::
-
-::::{lightgrey} Delve deeper into this subject! 
-
-
-*If you want to learn more about this topic, consider one of the following material(s):*
-(test admonition grey #4)
-
-Content
-::::
-
-
-```{lightgrey} Delve deeper into this subject! 
-:class: sticky-margin
-
-This content will appear in the sticky margin when the original element scrolls out of view.
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> ```
-```
-
-```{admonition} 
-:class: sticky-margin no-title
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> ```
-```
-
-> **Delve deeper into this subject! - test quote**
-> 
-> *If you want to learn more about this topic, consider one of the following material(s):*
->
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-> :class: seealso darkgreen dropdown
-> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> test 2
-> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-:class: seealso darkgreen dropdown
-```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> 
-> test 3
-```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
-:class: seealso darkgreen dropdown
-```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-> 
-> end
-
-
-```{admonition} Delve deeper into this subject! test normal admonition nonote
-:class: lightgrey 
-*If you want to learn more about this topic, consider one of the following material(s):*
-
-```{admonition} VIDEO: Why everyone should be data literate
-:class: seealso darkgreen dropdown
-```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
-```
 
 :::::{card}
 
