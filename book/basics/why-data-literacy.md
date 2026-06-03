@@ -96,6 +96,26 @@ Content
 ::::
 
 
+> **Delve deeper into this subject! - test quote**
+> 
+> *If you want to learn more about this topic, consider one of the following material(s):*
+>
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+> :class: seealso darkgreen dropdown
+> ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> test 2
+> ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> 
+> test 3
+```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
+> 
+> end
+
+
 ```{admonition} Delve deeper into this subject! test normal admonition nonote
 :class: lightgrey 
 *If you want to learn more about this topic, consider one of the following material(s):*

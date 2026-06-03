@@ -9,7 +9,7 @@ First, upload the image in the "figure" folder.
 
 Then, use the below syntax: 
 
-```{figure} ../figures/research-cycle.jpg
+```{figure} ../figures/<name>.jpg
 ---
 width: 80%
 align: center
