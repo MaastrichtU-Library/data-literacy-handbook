@@ -85,6 +85,8 @@ Content
 Content
 ::::
 
+
+````md
 ::::{lightgrey} 
 
 :class: show-bar sticky-margin
@@ -95,7 +97,7 @@ Content
 
 Content
 ::::
-
+````
 
 > **Delve deeper into this subject! - test quote**
 > 
