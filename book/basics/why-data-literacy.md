@@ -1,5 +1,20 @@
 # Why is Data Literacy important? 
 
+
+````{margin}
+
+```{note}
+
+test sticky margin
+
+```
+
+```{seealso}
+
+test2 sticky margin
+
+```
+
 Navigating today’s data-rich world requires critical thinking and the ability to understand how to work with data. 
 
 Data literacy is of course relevant in the research domain, as without it we would not manage to work with the data and provide meaningful results. Beyond the research domain, data literacy is important to critically evaluate the data and results that are presented to us in the news and to effectively use the insights gained for making policy and businss decisions. "Data-driven decisions" is a buzzword. "Big-data" is also a buzz-word. Both show that data is important right now. This Handbook lays the basics for data literacy in the research domain.
@@ -69,6 +84,16 @@ Content
 Content
 ::::
 
+::::{lightgrey} 
+
+:class: show-bar sticky-margin
+**Delve deeper into this subject!**
+
+*If you want to learn more about this topic, consider one of the following material(s):*
+(test admonition grey #5)
+
+Content
+::::
 
 
 ```{admonition} Delve deeper into this subject! test normal admonition nonote
