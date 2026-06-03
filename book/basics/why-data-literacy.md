@@ -35,7 +35,7 @@ Data literacy is of course relevant in the research domain, as without it we wou
 :type: multiple-choice
 :variant: multiple-select
 :showanswer:
-
+What is not a kind of data? Find the impostor(s)
 ---
 [ ] personal data
 [x] questioning data

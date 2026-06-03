@@ -5,7 +5,7 @@
 width: 80%
 align: center
 ---
-Research Data Lifecyle {cite:p}`turing-way-scriberia-images` 
+*Research Data Lifecyle* {cite:p}`turing-way-scriberia-images` 
 ```
 
 In research, data goes through different stages. In this framework, the process is seen as circular, as data can go through the same stages multiple times. Research data lifecycle phases:

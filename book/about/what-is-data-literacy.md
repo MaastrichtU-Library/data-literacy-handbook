@@ -18,6 +18,6 @@ Yes, but there are also other fundamental academic skills when working with data
 
 
 ```{admonition} Delve deeper into this subject:
-:class: seealso darkgreen
+:class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
