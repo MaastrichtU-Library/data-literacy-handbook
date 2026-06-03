@@ -112,10 +112,16 @@ As a researcher, your lived experience can also constitute data, for example:
 ::::
 
 
-```{admonition} What do you think?
-Which data is commonly used in your field? 
-Which data do you find interesting?
+
+```{admonition} Reflect on this topic!
+:class: tip orchid
+
+- Which data are commonly used in your field? 
+- Which data do you find interesting?
+- 
 ```
+
+
 
 
 

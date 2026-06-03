@@ -42,42 +42,11 @@ Finally, keep in mind that, despite what the map shows, navigating the landscape
 
 % example: using an admonition for questions to the public. We could also create a custom one, see example: https://oit.tudelft.nl/CME4501/2024/pages/Unconstrained_optimization.html  
 
-```{admonition} Reflect on this topic!
-:class: tip plum
-
-Do you agree with all representations in the illustrations above?
-
-What other examples can you think of where *data*, *digital* and *information* literacy intersect?
-
-Can you describe a case that is potentially prominent within your own discipline?
-```
 
 ```{admonition} Reflect on this topic!
 :class: tip orchid
 
-Do you agree with all representations in the illustrations above?
-
-What other examples can you think of where *data*, *digital* and *information* literacy intersect?
-
-Can you describe a case that is potentially prominent within your own discipline?
-```
-
-```{admonition} Reflect on this topic!
-:class: tip mediumorchid
-
-Do you agree with all representations in the illustrations above?
-
-What other examples can you think of where *data*, *digital* and *information* literacy intersect?
-
-Can you describe a case that is potentially prominent within your own discipline?
-```
-
-```{admonition} Reflect on this topic!
-:class: tip darkorchid
-
-Do you agree with all representations in the illustrations above?
-
-What other examples can you think of where *data*, *digital* and *information* literacy intersect?
-
-Can you describe a case that is potentially prominent within your own discipline?
+- Do you agree with all representations in the illustrations above?
+- What other examples can you think of where *data*, *digital* and *information* literacy intersect?
+- Can you describe a case that is potentially prominent within your own discipline?
 ```
