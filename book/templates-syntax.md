@@ -35,12 +35,12 @@ This is a card with admonitions inside or an admonition into admonitions
 :class: note grey 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
-```{admonition} <TYPE>: <Title>>
+```{admonition} <TYPE>: <Title>
 :class: seealso darkgreen dropdown
 *<possible extra note/introduction to the resource>*
 ```<resource> % e.g. {video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 
-```{admonition} <TYPE>: <Title>>
+```{admonition} <TYPE>: <Title>
 :class: seealso darkgreen dropdown
 ```<resource> 
 
