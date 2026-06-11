@@ -41,12 +41,10 @@ Yes, but there are also other fundamental academic skills when working with data
 ```{admonition} VIDEO: Data Literacy and the Art of Asking Questions
 :class: show-bar grey
 
-:class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```
 
 ```{admonition} *VIDEO: Data Literacy and the Art of Asking Questions*
-:class: no-title grey
 
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
