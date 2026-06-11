@@ -108,3 +108,4 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+    - file: testing.md

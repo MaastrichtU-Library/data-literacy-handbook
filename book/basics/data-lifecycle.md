@@ -19,10 +19,14 @@ In research, data goes through different stages. In this framework, the process 
 * a **publishing** stage when the data and/or the results of the analysis are made public.  namely planning for the data, data collection or acquisition, data processing and analysing;
 * a **reuse** stage where data that was published is used in a different research project.  
 
-```{admonition} Delve deeper into this subject:
-:class: seealso darkgreen
-*note: this video uses examples mainly from STEM.*
-```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA 
-```
+```{admonition} Delve deeper into this subject! 
+:class: note grey 
+*If you want to learn more about this topic, consider one of the following material(s):*
 
+```{admonition} <TYPE>: <Title>>
+:class: seealso darkgreen dropdown
+*Note: this video uses examples mainly from STEM.*
+```<resource> % e.g. {video} https://www.youtube.com/watch?v=mSSNrnpvsmA
+
+```
 
