@@ -113,8 +113,8 @@ As a researcher, your lived experience can also constitute data, for example:
 
 
 
-```{admonition} Reflect on this topic!
-:class: tip orchid
+```{tip} Reflect on this topic!
+:class: orchid
 
 - Which data are commonly used in your field? 
 - Which data do you find interesting?
