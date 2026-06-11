@@ -1,16 +1,13 @@
 # What is Data Literacy?
 
 ````{margin}
-
 ```{admonition} Data Literacy competences
-:class: tip palegreen
+:class: tip dropdown
 This section will help you:
 
-- understand the general principles of data literacy
+- understand the general principles of data literacy.
 - understand how data literacy, information literacy, digital literacy (including AI literacy) are related.
-
 ```
-
 ````
 
 ***Data literacy* refers to how competent an individual is in collecting, analysing, interpreting, 
