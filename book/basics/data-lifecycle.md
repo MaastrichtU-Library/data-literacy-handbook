@@ -23,10 +23,10 @@ In research, data goes through different stages. In this framework, the process 
 :class: note grey 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
-```{admonition} <TYPE>: <Title>>
+```{admonition} VIDEO: Understanding the research data lifecycle
 :class: seealso darkgreen dropdown
 *Note: this video uses examples mainly from STEM.*
-```<resource> % e.g. {video} https://www.youtube.com/watch?v=mSSNrnpvsmA
+```{video} https://www.youtube.com/watch?v=mSSNrnpvsmA
 
 ```
 
