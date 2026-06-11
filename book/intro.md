@@ -3,7 +3,7 @@
 
 **This handbook is a living document, part of Maastricht University Library’s Data Literacy program. Explore the About section to find out more about the handbook and its [recommended use](../book/about/how-to-use-this-handbook.md). You are warmly invited to [contribute](../book/about/how-to-contribute.md)!**
 
-The Data Literacy Handbook is a curated collection of (open educational) resources for students and teachers. In this handbook you will find: 
+The Data Literacy Handbook is a curated collection of (open educational) resources for students and educators. In this handbook you will find: 
 
 **1.** An introduction to key concepts and aspects of Data Literacy  
 **2.** Exercises to practice your data literacy skills  
