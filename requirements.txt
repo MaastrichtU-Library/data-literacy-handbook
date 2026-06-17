@@ -7,7 +7,7 @@ teachbooks-questions
 sphinx-named-colors
 sphinx-indexed-definitions
 #sphinx-sticky-margin
-teachbooks_favourites
+teachbooks-favourites
 
 # Our favourite Sphinx extensions in one line, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites) 
 # git+https://github.com/TeachBooks/TeachBooks-Favourites
