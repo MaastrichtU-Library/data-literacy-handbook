@@ -88,3 +88,19 @@ Margins can be used to provide extra information or context. For example, to pro
 # COLOURS
 % https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
 
+# CITING
+% https://teachbooks.io/manual/features/apa.html 
+
+# SMALLER FONT
+<sub>your content here</sub>
+
+# HIGHLIGHT
+<mark>your content here</mark>
+
+
+# Syntax exercises from teachbook: 
+% https://teachbooks.io/template/syntax_exercises.html
+
+As user type 3 you will work primarily in `.md` (Markdown) or `.ipynb`(Jupyter Notebook) files. In TeachBooks, `.md` files contain text-based content with formatting, while `ipynb` files contain both text and executable code cells. `.md` files are much easier to edit online, so let's start with those!
+
+The more you write, the more different types of content you'll want to use. [JupyterBook v1 itself provides a cheatsheet](https://jupyterbook.org/v1/reference/cheatsheet.html) which will come in handy!
