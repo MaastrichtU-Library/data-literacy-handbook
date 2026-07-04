@@ -12,7 +12,7 @@ This means that metadata describes different characteristics of the data in ques
 ```{admonition} How do you interact with metadata in your everyday life?
 :class: tip plum dropdown
 
-All digital objects are automatically stored alongside metadata. If you are looking for a file in your laptop, you may search by name, but also filter by size, date of creation, author, etc. If you are looking for a specific picture on your phone, you may check the location and dates. When navigating your email inbox, you may also filter by sender and dates. All of these, are metadata. 
+Metadata is a charcteristic of all digital objects. In fact, these are automatically stored alongside metadata. If you are looking for a file in your laptop, you may search by name, but also filter by size, date of creation, author, etc. If you are looking for a specific picture on your phone, you may check the location and dates. When navigating your email inbox, you may also filter by sender and dates. All of these, are examples of metadata. 
 ```
 
 ```{admonition} VIDEO: What is metadata? A visual story
@@ -23,9 +23,10 @@ All digital objects are automatically stored alongside metadata. If you are look
 :::::
 
 Note that the distinction between metadata and data is not ontological, but grounded in use {cite:p}`how-to-fair-metadata`. In other words, **what counts as metadata for some folks and in some project, might be the data for others!**
-For example, within your program, each student (or group of students) may work with specific data to produce a final thesis. For each one of these project, we can discern some metadata about it, such as the year the project was carried out, the length of the project, the topic, the methods employed, the supervisor, the nationality of the student(s) involved, and the final grade received. A researcher may be interested to analyse these metadata to find out patterns in topic choice, supervisors, grades, and nationality of the student(s) involved. For them, the *metadata* of each project, would be their *data*. 
 
-**In the context of research data, here are some examples of metadata types:** 
+For example, within your program, each student (or group of students) may work with specific data to produce a final thesis. For each one of these project, we can discern some metadata about it, such as the year the project was carried out, the length of the project, the topic, the methods employed, the supervisor, the nationality of the student(s) involved, and the final grade received. A researcher may be interested to analyse these metadata to find out patterns in topic choice, supervisors, grades, and nationality of the student(s) involved. For this researcher, the *metadata* of each project is their *data*. 
+
+**In the context of research data**, here are some examples of metadata types:
 
 ::::{tab-set}
 

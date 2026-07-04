@@ -55,6 +55,26 @@ This is a card with admonitions inside or an admonition into admonitions
 < questions >
 ```
 
+## GRASPING THE CONCEPT
+This card is a way to propose alternative activities to students/teachers. Each activity should be a dropdown. Following is an example. 
+
+:::::{card}
+
+**Grasping the concept:** consider doing one of the following <n> activities.
+
+```{admonition} How do you interact with metadata in your everyday life?
+:class: tip plum dropdown
+
+All digital objects are automatically stored alongside metadata. If you are looking for a file in your laptop, you may search by name, but also filter by size, date of creation, author, etc. If you are looking for a specific picture on your phone, you may check the location and dates. When navigating your email inbox, you may also filter by sender and dates. All of these, are metadata. 
+```
+
+```{admonition} VIDEO: What is metadata? A visual story
+:class: seealso darkgreen dropdown
+*Would you like to have a more visual explanation of metadata? Check out this video!*
+```{video} https://www.youtube.com/watch?v=L0vOg18ncWE
+```
+:::::
+
 
 # MARGINS 
 
