@@ -112,5 +112,16 @@ are data about how the dataset or resource can be used.
 
 ::::
 
-Note that while some metadata may be static throughout the years, others may change. Metadata should be stored alongside data and kept **up to date** to live to their full potential. [link to link open data!!]
+Note that while some metadata may be static throughout the years, others may change. Metadata should be stored alongside data and kept **up to date** to live to their full potential. 
+
+
+[link to link open data!!]
+
+## Why do metadata matter? 
+
+
+
+## Metadata Schemas/standards 
+
+% ask Maryam about this part??
 
