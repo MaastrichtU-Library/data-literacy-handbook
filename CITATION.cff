@@ -1,17 +1,17 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.2.0
-title: 'TeachBooks Template' # replace with your own book title when you use this template
+cff-version: 1.0.0
+title: 'Data Literacy Handbook' # replace with your own book title when you use this template
 authors: #replace with your own name(s) if you use this template
-- email: info@teachbooks.io
-  name: 'TeachBooks Development Team'
+- email: ub-dataliteracy@maastrichtuniversity.nl
+  name: 'Maastricht university Library - Data Literacy Team'
   website: 'https://teachbooks.io/'
 message: 'If you use this teachbook, please cite it using these metadata.'
 preferred-citation:
   type: book
   authors: #replace with your own name(s) if you use this template
-  - email: info@teachbooks.io
+  - email: ub-dataliteracy@maastrichtuniversity.nl
     name: 'TeachBooks Development Team'
     website: 'https://teachbooks.io/'
 #  - given-names: Tom
@@ -35,17 +35,17 @@ preferred-citation:
     elaborate on the collaborative functionalities of Git or
     how to edit the book
   keywords: # replace with your own keywords when you use this template
-    - TeachBooks
+    - data literacy
     - Template
     - 'Jupyter Book'
   title: 'TeachBooks Template' # replace with your own book title when you use this template
   institution:
-    name: 'TeachBooks' # replace with your own institution when you use this template
-  license: CC-BY-4.0
-  license-url: 'https://creativecommons.org/licenses/by/4.0/'
-  copyright: '© 2025 TeachBooks' # replace with your own affiliation / name when you use this template
+    name: 'Maastricht University Library' # replace with your own institution when you use this template
+  license: CC-BY-NC-4.0
+  license-url: 'https://creativecommons.org/licenses/by-nc/4.0/'
+  copyright: '© 2026 Maastricht University Library' # replace with your own affiliation / name when you use this template
   languages:
     - en # replace with your book language when you use this template
   contact: # replace with your own contact information when you use this template
-  - email: info@teachbooks.io
+  - email: ub-dataliteracy@maastrichtuniversity.nl
     name: 'TeachBooks Development Team'
