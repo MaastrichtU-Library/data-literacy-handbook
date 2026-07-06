@@ -1,7 +1,8 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.0.0
+# versioning convention: month-year
+cff-version: 09-2026
 title: 'Data Literacy Handbook' # replace with your own book title when you use this template
 authors: #replace with your own name(s) if you use this template
 - email: ub-dataliteracy@maastrichtuniversity.nl
