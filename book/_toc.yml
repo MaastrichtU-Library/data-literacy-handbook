@@ -57,6 +57,18 @@ parts:
   - caption: Storage
     chapters:
     - file: storage/intro.md
+      sections:
+      - file: storage/size-and-formats.md
+      - file: storage/backup.md
+      - file: storage/documentation.md
+      - file: storage/folder-organization.md
+      - file: storage/naming-conventions.md
+      - file: storage/version-control.md
+    - file: storage/intro-ex.md
+      sections:
+      - file: storage/tabular-data.md
+      - file: storage/textual-data.md
+      - file: storage/physical-data.md
 
   - caption: Long term preservation
     chapters:
