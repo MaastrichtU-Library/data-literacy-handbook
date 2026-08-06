@@ -1,5 +1,16 @@
 # What is Data? 
 
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
+
+- understand different types of data.
+- understand which formats and data types are appropriate for different research questions. [???]
+```
+````
+
+
 Data can be seen as factual information used as a basis for reasoning, discussion, or calculation {cite:ps}`merriam-webster-data`. 
 
 

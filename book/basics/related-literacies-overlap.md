@@ -1,5 +1,15 @@
 # Related literacies
 
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
+
+- understand how data literacy, information literacy, and digital literacy (including AI literacy) are related.
+- understand the general principles of data literacy.
+```
+````
+
 **Navigating today’s information-rich world requires critical thinking and the ability to work with digital technologies and data. Besides data literacy, other relevant and overlapping literacies are *digital* literacy and *information* literacy.**
 
 Let's start with two definitions. First, *Digital* literacy can be defined as the ability to navigate ethically and professionally in today’s digital world, as well as to develop a critical mindset and staying up-to-date with digital technologies. This also encompasses aspects of AI. Secondly, *Information* literacy can be defined as the ability to find, access, evaluate, (re)use and create (scientific) information. An information literate individual knows to avoid dependency on common search engines or AI-powered searches.

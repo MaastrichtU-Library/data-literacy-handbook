@@ -33,6 +33,9 @@ Yes, but there are also other fundamental academic skills when working with data
 % APPLY CLEAR SUBHEADING
 
 ```{admonition} Delve deeper into this subject:
-:class: seealso darkgreen
+:class: note grey 
+*If you want to learn more about this topic, consider one of the following material(s):*
+```{admonition} VIDEO: Understanding the research data lifecycle
+:class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```

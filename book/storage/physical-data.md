@@ -1,4 +1,14 @@
 # Physical data
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
+
+- xx
+- xx
+```
+````
+
 
 fieldwork noteooks, bio samples, rocks, etc. 
 

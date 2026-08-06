@@ -102,6 +102,16 @@ Margins can be used to provide extra information or context. For example, to pro
 
 ```` 
 
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
+
+- xx
+- xx
+```
+````
+
 # QUESTIONS
 % https://teachbooks.io/manual/_git/github.com_TeachBooks_TeachBooks-Questions/main/MANUAL.html
 

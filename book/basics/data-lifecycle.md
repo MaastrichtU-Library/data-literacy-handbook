@@ -1,5 +1,16 @@
 # What is the Research Data Lifecycle?
 
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
+
+- understand the life cycle of data.
+- create an overview of the data life cycle in your (research) project.
+
+```
+````
+
 ```{figure} ../figures/research-cycle.jpg
 :name: sticky_basic
 :figclass: sticky-margin

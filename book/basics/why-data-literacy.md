@@ -1,5 +1,17 @@
 # Why is Data Literacy important? 
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
 
+- understand the general principles of data literacy.
+- explain the usefulness of data literacy skills for different aspects and stages of a (research) 
+project.
+- explain the usefulness of data literacy skills for different aspects and stages of a (research) project.
+- explain the importance and relevance of data literacy in one's discipline. 
+- evaluate one's data literacy to identify gaps and learning opportunities.
+```
+````
 Navigating today’s data-rich world requires critical thinking and the ability to understand how to work with data. 
 
 TESTING DEFINITIONS: For more details, see the definition of {ref}`term-definition`.

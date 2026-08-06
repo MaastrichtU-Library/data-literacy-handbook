@@ -1,5 +1,13 @@
 # What is metadata?
+````{margin}
+```{admonition} Data Literacy competences
+:class: tip dropdown
+This section will help you:
 
+- understand the concept of metadata. 
+- understand the value of metadata.
+```
+````
 **Metadata is data that provides information about other data** {cite:ps}`merriam-webster-metadata`. 
 
 This means that metadata describes different characteristics of the data in question and can be quite helpful in understanding what the data is and how it can be used. Metadata can also be used to find and locate data, both in a public online environment such as databases [add indexed definition] and data repositories [add indexed definition], and in your system or storage of choice. 
@@ -121,7 +129,7 @@ Note that while some metadata may be static throughout the years, others may cha
 
 
 
-## Metadata Schemas/standards 
+% ## Metadata Schemas/standards 
 
 % ask Maryam about this part??
 
