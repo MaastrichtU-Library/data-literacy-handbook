@@ -60,7 +60,7 @@ Naturally, not all files may need a date, or a version embedded in their name. T
 
 
 
-```{figure} ../figures/projecthistory-no-title-2.svg
+```{figure} ../figures/projecthistory-no-title-2.jpg
 ---
 width: 80%
 align: center
