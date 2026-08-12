@@ -59,6 +59,15 @@ version control: this is the version 1.4 (probably has been revised before, prev
 Naturally, not all files may need a date, or a version embedded in their name. The take-away is that it is good to actively think and decide on your naming conventions. 
 
 
+
+```{figure} ../figures/projecthistory-no-title-2.svg
+---
+width: 80%
+align: center
+---
+Naming conventions {cite:p}`turing-way-scriberia-images` 
+```
+
 ## readable by machines
 
 :::::{card}

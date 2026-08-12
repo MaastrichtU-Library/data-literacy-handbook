@@ -11,3 +11,11 @@ This section will help you:
 ````
 
 xxx
+
+```{figure} ../figures/data-management-plan.jpg
+---
+width: 80%
+align: center
+---
+Data management plan {cite:p}`turing-way-scriberia-images` 
+```

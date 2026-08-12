@@ -8,3 +8,13 @@ This handbook can be used in different ways. We suggest you do not read it cover
 4. [For dealing with quantitative data](../paths/quantitative.md)
 5. [As teaching staff](../paths/teacher.md)
 6. [While working on a thesis project](../paths/thesis.md)
+
+
+
+```{figure} ../figures/communitynetworks.svg
+---
+width: 80%
+align: center
+---
+Community networks {cite:p}`turing-way-scriberia-images` 
+```

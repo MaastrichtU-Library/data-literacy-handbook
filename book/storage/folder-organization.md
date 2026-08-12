@@ -22,14 +22,18 @@ Data MUST be organized in a good way.
 :class: tip plum dropdown
 
 How do you organize files on your laptops? 
-Do you hav eone system that you apply to your hobby-related files, your univeristy-related files, your health-related files? 
+
+Do you have one system that you apply to your hobby-related files, your university-related files, your health-related files? 
+
 Have your system evolved through the years? 
+
 What seems to work well for you? What could be improved? 
-If you have (had) any shared folders, how were these roganized? How did you land on that system? 
+
+If you have (had) any shared folders, how were these organized? How did you land on that system? 
 
 ```
 
-```{admonition} VIDEO: File paths [maybe mpve somewhere else]
+```{admonition} VIDEO: File paths [maybe move somewhere else]
 :class: seealso darkgreen dropdown
 *Would you like to have a more narrative explanation of folder organization? Check out this video!*
 ```{video} https://www.youtube.com/watch?v=y6LUQLUEV8g
@@ -47,6 +51,15 @@ If you have (had) any shared folders, how were these roganized? How did you land
 :::::
 
 ## Best practices for data organization
+
+```{figure} ../figures/file-management-manual-no-title.jpg
+---
+width: 80%
+align: center
+---
+File organization {cite:p}`turing-way-scriberia-images` 
+```
+
 
 ## Document your structure 
 You already have a structure in your TF folder, but chances are, you have not documented it. It may not seem important to document your structure at this point, as you may "know your folder like the back of your hand". Nonetheless, it a valuable process to:

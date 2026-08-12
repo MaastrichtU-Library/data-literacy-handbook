@@ -133,3 +133,11 @@ Note that while some metadata may be static throughout the years, others may cha
 
 % ask Maryam about this part??
 
+
+```{figure} ../figures/data-mining-without-text.jpg
+---
+width: 80%
+align: center
+---
+Finding data via metadata? {cite:p}`turing-way-scriberia-images` 
+```

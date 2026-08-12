@@ -18,3 +18,11 @@ fieldwork noteooks, bio samples, rocks, etc.
 ## how to keep
 
 ## digitise or not digitise? that is the question!
+
+```{figure} ../figures/digital-twin-without-text.jpg
+---
+width: 80%
+align: center
+---
+Digitize? {cite:p}`turing-way-scriberia-images` 
+```

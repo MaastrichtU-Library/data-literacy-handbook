@@ -19,6 +19,15 @@ Great structure, naming convention, and version control go a long way, but docum
 
 Documentation is any piece of information that you store alongside your data that is *not* data. Documentation usually provides different infromation on the data which is essential to use the data and navigate around your folders. If your data is your treassure, documentation is the map to find it and the key to open the chest. 
 
+
+```{figure} ../figures/documentation.jpg
+---
+width: 80%
+align: center
+---
+Documentation {cite:p}`turing-way-scriberia-images` 
+```
+
 ## Kinds of documentation
 
 Documentation can be on a specific file, on a project, on the process followed, etc. 
@@ -32,3 +41,20 @@ explain,
 link to formats
 
 
+
+```{figure} ../figures/provenance.svg
+---
+width: 80%
+align: center
+---
+Provenance {cite:p}`turing-way-scriberia-images` 
+```
+
+
+```{figure} ../figures/readablecode-no-title.jpg
+---
+width: 80%
+align: center
+---
+Documentation and reusability {cite:p}`turing-way-scriberia-images` 
+```

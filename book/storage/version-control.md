@@ -16,3 +16,10 @@ This section will help you:
 ## first rule of version control: do not touch the raw data. 
 
 
+```{figure} ../figures/projecthistory.svg
+---
+width: 80%
+align: center
+---
+Version control {cite:p}`turing-way-scriberia-images` 
+```

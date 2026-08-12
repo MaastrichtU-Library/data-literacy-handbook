@@ -3,6 +3,11 @@
 - if there is only one subheading, this should not appear in the index on the right column. 
 
 
+# INTERNAL LINKS
+
+ [<TITLE OF LINK>](../<path to the file>/<file-name.md>)
+ [For Bachelor's students](../paths/BAstudent.md)
+
 # ADD IMAGES
 
 First, upload the image in the "figure" folder. 

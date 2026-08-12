@@ -10,6 +10,16 @@ This section will help you:
 ````
 When 
 
+
+```{figure} ../figures/data-management-plan.jpg
+---
+width: 80%
+align: center
+---
+Data management plan {cite:p}`turing-way-scriberia-images` 
+```
+
+
 ## Where to store the data? 
 
 Not all data storage is created equal: some things are better than others

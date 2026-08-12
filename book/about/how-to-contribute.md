@@ -4,6 +4,13 @@
 
  The full list of individual contributors can be found in our <a href="github.com/MaastrichtU-Library">GitHub repository</a>.<br>
 
+```{figure} ../figures/collaboration.jpg
+---
+width: 80%
+align: center
+---
+Collaboration {cite:p}`turing-way-scriberia-images` 
+```
 ## I want to contribute
 
 We welcome any feedback, suggestions or input that could help us improve this handbook. You can contribute in one of the following ways:
@@ -13,6 +20,15 @@ We welcome any feedback, suggestions or input that could help us improve this ha
 - If you work at Maastricht University or another Dutch university, we are happy to meet you in person or online to discuss more collaboration opportunities.
 
 We currently do not have any hardcore contribution guidelines. We are happy to receive your input in whichever format or method is easy for you. It is important, however, that you give consent to the use of your content in this handbook, and its licensing.
+
+
+```{figure} ../figures/github-actions.jpg
+---
+width: 80%
+align: center
+---
+Collaboration on Github {cite:p}`turing-way-scriberia-images` 
+```
 
 ## Licensing
 
