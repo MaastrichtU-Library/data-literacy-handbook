@@ -11,7 +11,7 @@ This handbook can be used in different ways. We suggest you do not read it cover
 
 
 
-```{figure} ../figures/communitynetworks.svg
+```{figure} ../figures/communitynetwork.svg
 ---
 width: 80%
 align: center
