@@ -65,7 +65,7 @@ Naturally, not all files may need a date, or a version embedded in their name. T
 
 **Grasping the concept:** consider doing one of the following <n> activities.
 
-```{admonition} What do you think is not machine-firendly in file-naming?
+```{admonition} What do you think is not machine-friendly in file-naming?
 :class: tip plum dropdown
 -- add answer --
 
