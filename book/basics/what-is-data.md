@@ -126,10 +126,14 @@ As a researcher, your lived experience can also constitute data, for example:
 
 ```{orchid} Reflect on this topic!
 :class: tip
+<span style="color:black">
 
 - Which data are commonly used in your field? 
 - Which data do you find interesting?
-- 
+
+</span>.
+
+
 ```
 
 

@@ -10,7 +10,7 @@ When storing data it is important to have considerations both on the file-level 
 
 1. How will the data be stored? ([size and formats](../storage/size-and-formats.md))
 2. How "big" is my data? ([size and formats](../storage/size-and-formats.md))
-3. How will each piece of data be named? ([size and formats](../storage/size-and-formats.md))
+3. How will each piece of data be named? ([naming folders and files](../storage/naming-conventions.md))
 
 *Environment-level considerations*
 1. Which storage solution is appropriate? ([where to store?](../storage/backup.md))

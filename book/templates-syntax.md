@@ -8,6 +8,33 @@
  [<TITLE OF LINK>](../<path to the file>/<file-name.md>)
  [For Bachelor's students](../paths/BAstudent.md)
 
+
+# OTHER LINKS
+
+## Markdown Inline Links
+
+[Link text](https://www.markdownlang.com)
+[Link with title](https://www.markdownlang.com "Link title")
+
+## Markdown Reference Links
+
+[Link text][ref]
+[Link text][]
+
+[ref]: https://www.markdownlang.com "Optional title"
+[Link text]: https://www.markdownlang.com
+
+##  Markdown Autolinks
+
+<https://www.markdownlang.com>
+<email@example.com>
+
+## Markdown Anchor Links
+
+[Jump to heading](#heading-name)
+[Back to top](#top)
+
+
 # ADD IMAGES
 
 First, upload the image in the "figure" folder. 
@@ -57,7 +84,24 @@ This is a card with admonitions inside or an admonition into admonitions
 ```{admonition} Reflect on this topic!
 :class: tip plum
 
+<span style="color:black"> 
+
 < questions >
+
+</span>
+```
+
+## DATA HORROR STORY
+
+```{admonition} Data horror story
+:class: warning darkorange dropdown
+
+<span style="color:black"> 
+
+<question question text text>
+
+</span>
+
 ```
 
 ## GRASPING THE CONCEPT
@@ -67,10 +111,12 @@ This card is a way to propose alternative activities to students/teachers. Each 
 
 **Grasping the concept:** consider doing one of the following <n> activities.
 
-```{admonition} How do you interact with metadata in your everyday life?
+```{admonition} <question>
 :class: tip plum dropdown
 
-All digital objects are automatically stored alongside metadata. If you are looking for a file in your laptop, you may search by name, but also filter by size, date of creation, author, etc. If you are looking for a specific picture on your phone, you may check the location and dates. When navigating your email inbox, you may also filter by sender and dates. All of these, are metadata. 
+<span style="color:black">
+<content content content>
+</span>.
 ```
 
 ```{admonition} VIDEO: What is metadata? A visual story
@@ -122,6 +168,16 @@ This section will help you:
 
 # COLOURS
 % https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
+
+# FORCE COLOUR FOR SPECIFIC TEXT
+<!--
+Source - https://stackoverflow.com/a/35485694
+Posted by Waylan, modified by community. See post 'Timeline' for change history
+Retrieved 2026-08-13, License - CC BY-SA 4.0
+-->
+
+<span style="color:blue">some *blue* text</span>.
+
 
 # CITING
 % https://teachbooks.io/manual/features/apa.html 

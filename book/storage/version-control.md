@@ -23,3 +23,12 @@ align: center
 ---
 Version control {cite:p}`turing-way-scriberia-images` 
 ```
+
+
+```{figure} ../figures/versioncontrol.svg
+---
+width: 80%
+align: center
+---
+Version control {cite:p}`turing-way-scriberia-images` 
+```
