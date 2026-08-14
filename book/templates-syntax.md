@@ -34,6 +34,8 @@
 [Jump to heading](#heading-name)
 [Back to top](#top)
 
+## referencing figure 
+{numref}`Figure {number} <name of the figure>` 
 
 # ADD IMAGES
 
@@ -44,6 +46,7 @@ Then, use the below syntax:
 ```{figure} ../figures/<name>.jpg
 ---
 width: 80%
+name: <figure name> %add this line if need to reference to it   
 align: center
 ---
 Research Data Lifecyle {cite:p}`turing-way-scriberia-images` 
@@ -63,7 +66,7 @@ This is a card with admonitions inside or an admonition into admonitions
     - <TYPE>: <Title>
     - e.g. <VIDEO> <How to be happy>
 
-```{admonition} Delve deeper into this subject! 
+````{admonition} Delve deeper into this subject! 
 :class: note grey 
 *If you want to learn more about this topic, consider one of the following material(s):*
 
@@ -71,13 +74,28 @@ This is a card with admonitions inside or an admonition into admonitions
 :class: seealso darkgreen dropdown
 *<possible extra note/introduction to the resource>*
 ```<resource> % e.g. {video} https://www.youtube.com/watch?v=GhqTvWwMOYw
-
+```
 ```{admonition} <TYPE>: <Title>
 :class: seealso darkgreen dropdown
 ```<resource> 
+```
+````
+**example**
+````{admonition} Delve deeper into this subject! 
+:class: note grey 
+*If you want to learn more about this topic, consider one of the following material(s):*
 
+
+```{admonition} VIDEO: Funky file formats (Ange Albertini)
+:class: seealso darkgreen dropdown
+```{video} https://www.youtube.com/watch?v=hdCs6bPM4is
 ```
 
+```{admonition} ARTICLE: Interoperability in education
+:class: seealso darkgreen dropdown
+```{iframe} https://www.surf.nl/en/themes/interoperability/key-concepts-of-interoperability-in-education
+```
+````
 
 ## REFLECT ON THIS TOPIC ADMONITION
 

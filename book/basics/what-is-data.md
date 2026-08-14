@@ -132,8 +132,6 @@ As a researcher, your lived experience can also constitute data, for example:
 - Which data do you find interesting?
 
 </span>.
-
-
 ```
 
 
