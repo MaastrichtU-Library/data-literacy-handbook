@@ -162,24 +162,19 @@ Margins can be used to provide extra information or context. For example, to pro
 ## LEARNING GOALS IN MARGIN
 
 ````{margin}
+```{admonition} Competences
+:class: tip dropdown cornflowerblue
 
-```{admonition}
-:class: tip palegreen
-<text>
-
-```
-
-```` 
-
-````{margin}
-```{admonition} Data Literacy competences
-:class: tip dropdown
+<span style="color:black">
 This section will help you:
 
-- xx
-- xx
+- <competence1>
+- <competence2> 
+</span>
 ```
 ````
+
+```` 
 
 # QUESTIONS
 % https://teachbooks.io/manual/_git/github.com_TeachBooks_TeachBooks-Questions/main/MANUAL.html
