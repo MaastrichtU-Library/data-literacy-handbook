@@ -4,6 +4,13 @@
 
  The full list of individual contributors can be found in our <a href="https://maastrichtu-library.github.io/data-literacy-handbook/">GitHub repository</a>.<br>
 
+```{figure} ../figures/collaboration.jpg
+---
+width: 80%
+align: center
+---
+Collaboration {cite:p}`turing-way-scriberia-images` 
+```
 ## I want to contribute
 
 We welcome any feedback, suggestions or input that could help us improve this handbook. You can contribute in one of the following ways:
@@ -15,6 +22,15 @@ We welcome any feedback, suggestions or input that could help us improve this ha
 % note: add later the Data Literacy page, as a link when mentioning potential UM collaborators
 
 We currently do not have any hardcore contribution guidelines. If you are interested in contributing by providing new or revised content, we are happy to receive your input in whichever format or method is easy for you. You will then be listed as a "contributor". In this case, it is important that you agree to the use of your content in this handbook and its licensing.
+
+
+```{figure} ../figures/github-actions.jpg
+---
+width: 80%
+align: center
+---
+Collaboration on Github {cite:p}`turing-way-scriberia-images` 
+```
 
 ## Licensing
 

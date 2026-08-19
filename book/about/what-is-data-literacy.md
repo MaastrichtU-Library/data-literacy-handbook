@@ -2,11 +2,14 @@
 
 ````{margin}
 ```{admonition} Data Literacy competences
-:class: tip dropdown
+:class: tip dropdown cornflowerblue
+
+<span style="color:black">
 This section will help you:
 
 - understand the general principles of data literacy.
 - understand how data literacy, information literacy, digital literacy (including AI literacy) are related.
+</span>
 ```
 ````
 
@@ -16,7 +19,7 @@ privacy, and security considerations.**
 
 As you might have noticed in the definition above, there are multiple competences and aspects to consider in the journey to become data literate. You will require *knowledge* (e.g., the know what), *skills* (e.g., the know how), but also suitable *attitudes* (e.g., embracing specific personal and/or organisational values).
 
-**Example:** A reseacher with the required knowledge and skills might still neglect the proper development of a *Data Management Plan* (DMP) in their project, if they have not yet embraced the importance of *FAIR principles*.
+**Example:** A researcher with the required knowledge and skills might still neglect the proper development of a *Data Management Plan* (DMP) in their project, if they have not yet embraced the importance of *FAIR principles*.
 
 % MAKE THIS BETTER
 
@@ -33,6 +36,9 @@ Yes, but there are also other fundamental academic skills when working with data
 % APPLY CLEAR SUBHEADING
 
 ```{admonition} Delve deeper into this subject:
-:class: seealso darkgreen
+:class: note grey 
+*If you want to learn more about this topic, consider one of the following material(s):*
+```{admonition} VIDEO: Understanding the research data lifecycle
+:class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw
 ```

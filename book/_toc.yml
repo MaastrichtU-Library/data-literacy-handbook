@@ -31,32 +31,12 @@ parts:
       
   - caption: Planning
     chapters:
-    - file: exercises.md
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/005a.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/017.md
-      - file: extension_exercises/014.md
-      - file: extension_exercises/015.md
-      - file: extension_exercises/016.md
+    - file: planning.md
+    - file: planning/intro.md
+    - file: planning/before.md
+    - file: planning/during.md
+    - file: planning/after.md
+      
 
   - caption: Re-using data
     chapters:
@@ -77,6 +57,18 @@ parts:
   - caption: Storage
     chapters:
     - file: storage/intro.md
+      sections:
+      - file: storage/size-and-formats.md
+      - file: storage/backup.md
+      - file: storage/documentation.md
+      - file: storage/folder-organization.md
+      - file: storage/naming-conventions.md
+      - file: storage/version-control.md
+    - file: storage/intro-ex.md
+      sections:
+      - file: storage/tabular-data.md
+      - file: storage/textual-data.md
+      - file: storage/physical-data.md
 
   - caption: Long term preservation
     chapters:

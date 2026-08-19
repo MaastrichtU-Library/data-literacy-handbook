@@ -1,6 +1,6 @@
 # This config includes all the recommended (default) configuration options of the TeachBooks software, and a TeachBooks' selection of configuration options as provided by Jupyterbook v1 for Jupyterbook v1 software and Sphinx.
 
-author: Maastricht University Library, built with <a href="https://teachbooks.io">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
+author: Maastricht University Library, built with <a href="https://teachbooks.io" target="_blank">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt=""></a>
                                                      # Replace TeachBooks Teams with your own name in the line above, configuratin part of JupyterBook: https://jupyterbook.org/en/stable/customize/config.html
 execute:
   execute_notebooks: "off"                           # Replace this if you want don't have notebooks with output and you want to add notebook output during build, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html)
@@ -24,6 +24,7 @@ sphinx:                                              # Options passed on to the 
     #- sphinx-sticky-margin      # sphinx sticky margin (admonitions) as explained in https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Sticky-Margin/main/MANUAL.html
     - sphinx_named_colors       # custom colours for admonitions
     - sphinx_apa_references     # APA references extension
+    - sphinx_iframes            # embedding webpages in iframes (and videos and others...)
   local_extension: null                              # Sets a a list of local extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
   config:
   # start config for indexed definitions as per sphinx documentation: https://pypi.org/project/sphinx-indexed-definitions/
@@ -36,6 +37,15 @@ sphinx:                                              # Options passed on to the 
     sphinx_indexed_defs_force_main:        true                  # default value
     sphinx_indexed_defs_index_theorems:    true                  # default value
     # end config for indexed definitions
+    # start configurations for iframe as per documentation https://teachbooks.io/manual/external/sphinx-iframes/README.html
+    iframe_blend:          true # default value
+    iframe_saturation:     1.5 # default value
+    iframe_h5p_autoresize: true # default value
+    iframe_background:     "#ffffff" # default value
+    iframe_width:          calc(100% - 2.8rem) # default value
+    iframe_aspectratio:    auto 2 / 1 # default value
+    iframe_loading:        lazy # default value
+    # end configuration iframes
     language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js # Required for live code, part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)
