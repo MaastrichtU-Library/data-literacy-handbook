@@ -14,7 +14,7 @@ This section will help you:
 ## Digital storage
 :::::{card}
 
-**Grasping the concept:** consider doing one of the following <n> activities.
+**Grasping the concept(s):** consider doing one of the following <n> activities.
 
 ```{admonition} QUESTION ON DATA SIZE?
 :class: tip plum dropdown
@@ -34,7 +34,7 @@ This section will help you:
 Every digital storage solution we rely on has a limit. It is essential to know what the limits of our storage solutions in order to prevent being in the situation of not having more storage available when we really need it. 
 
 ```{admonition} Data horror story
-:class: warning darkorange dropdown
+:class: warning orangered dropdown
 
 <span style="color:black"> 
 
@@ -108,14 +108,8 @@ File size and formats
 ```
 
 ## Data formats 
-````{margin}
-%<sub>
-The content in [this section](#data-formats) is adapted from: {cite:t}`how-to-fair-file-formats`.
-%</sub> 
-```` 
 
 ```{white}
-:class: sticky-margin
 The content in [this section](#data-formats) is adapted from: {cite:t}`how-to-fair-file-formats`.
 ```
 

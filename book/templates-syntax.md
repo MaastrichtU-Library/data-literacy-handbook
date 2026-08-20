@@ -112,7 +112,7 @@ This is a card with admonitions inside or an admonition into admonitions
 ## DATA HORROR STORY
 
 ```{admonition} Data horror story
-:class: warning darkorange dropdown
+:class: warning orangered dropdown
 
 <span style="color:black"> 
 
@@ -127,7 +127,7 @@ This card is a way to propose alternative activities to students/teachers. Each 
 
 :::::{card}
 
-**Grasping the concept:** consider doing one of the following <n> activities.
+**Grasping the concept(s):** get started with some of the following activities.
 
 ```{admonition} <question>
 :class: tip plum dropdown
@@ -144,6 +144,16 @@ This card is a way to propose alternative activities to students/teachers. Each 
 ```
 :::::
 
+# ATTRIBUTING ADAPTED TEXT FOR ENTIRE SECTIONS
+
+```{white}
+The content in [this section](#title) is adapted from: {cite:t}`key`.
+```
+
+e.g.
+```{white}
+The content in [this section](#data-formats) is adapted from: {cite:t}`how-to-fair-file-formats`.
+```
 
 # MARGINS 
 
