@@ -38,7 +38,9 @@ The Data Literacy Handbook is licensed under a Creative Commons <a href="https:/
 
 We recommend you cite this work in the following manner:
 
-XXX.
+Maastricht University Library. (2026). *Data Literacy Handbook* (P. Bollini & R. R. Cruz-Martinez, Eds.). Maastricht University Press. https://maastrichtu-library.github.io/data-literacy-handbook/ 
+
+**[Download citation XML file](../downloads/Data-Literacy-Handbook-Maastricht-University-Library.xml)**
 
 ## Acknowledgements
  We would like to especially acknowledge the following contributors:
