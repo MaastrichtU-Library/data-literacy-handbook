@@ -16,10 +16,15 @@ This section will help you:
 
 **Grasping the concept(s):** consider doing one of the following <n> activities.
 
-```{admonition} QUESTION ON DATA SIZE?
+```{admonition} Reflect on the digital size of files
 :class: tip plum dropdown
 
-<span style="color:black">ANSWER ANSWER  </span>.
+<span style="color:black">
+
+- Do you know how to check the size of different files on your laptop and/or phone? 
+- Did you notice which kind of files take up more space?
+
+   </span>
 
 ```
 
@@ -31,17 +36,14 @@ This section will help you:
 
 :::::
 
-Every digital storage solution we rely on has a limit. It is essential to know what the limits of our storage solutions in order to prevent being in the situation of not having more storage available when we really need it. 
+**Every digital storage solution has a limit**. It is essential to know what the limits of our storage solutions in order to prevent being in the situation of not having more storage available when we really need it. 
 
 ```{admonition} Data horror story
 :class: warning orangered dropdown
 
 <span style="color:black"> 
 
-I got all data via qualtrics, need to downlaod, not enough space?
-I was recording my interviews on a recorder that my parent (journalist) lended to me. I had planned 2 interviews for the same day, the first one was more than one hour long, which I did not expect, but I thught I would be fine. 
-
-I was not fine. 
+I was recording my interviews on a recorder that my parent (journalist) lent to me. I had planned 2 interviews for the same day, the first one was more than one hour long, which I did not expect, but I my parent mentioned recording usually two to four interviews in one go on this device, so I thought it would be fine. 
 
 The second interviewee had so much to say that passed an hour I still had half of my talking points to address. An half an hour later, the recorder started blinking: storage full. 
 
@@ -49,8 +51,10 @@ The second interviewee had so much to say that passed an hour I still had half o
 - Could you have prevented this situation? If so, how? 
 
 ```
-Sometimes, this limit is technical and fixed, such as in USB keys or recording devices. In these cases if we need more space we will need to rely on other or additional solutions (e.g. a bigger hard drive, two USB keys). In other cases, however, the limit may be an "illusion", this is often the case when relying on external services for our storage needs (e.g. cloud spaces). In these cases, the storage limit is not a limit of the infrastructure, but a conscious choice made by the company. In most cases, it is indeed possible to increase one's storage space by paying extra. 
-[add example??] %I do not necessarily want to add examples about GoogleDrive or OneDrive until the privacy and security part is ready, but I do think it would be helpful. 
+Sometimes, this limit is technical and fixed, such as in USB keys or recording devices. In these cases if we need more space we will need to rely on other or additional solutions (e.g. a bigger hard drive, two USB keys). In other cases, however, the limit may be an "illusion", this is often the case when relying on external services for our storage needs (e.g. cloud spaces). In these cases, the storage limit on our account is not a limit of the infrastructure, but a conscious choice made by the company. In most cases, it is indeed possible to increase one's storage space by paying extra. 
+
+% [add example??] I do not necessarily want to add examples about GoogleDrive or OneDrive until the privacy and security part is ready, but I do think it would be helpful. 
+
 
 ```{orchid} Reflect on this topic!
 :class: tip dropdown
@@ -71,9 +75,10 @@ When working with digital or digitized data, it is important to know how much sp
 
 **How can you estimate the size of your data?** 
 
-If you are reusing data [internal link to reusing data], usually that will be pretty straightforward as you can read or ask the data provider this information.If you are collecting your own data, then here is a guide to do so:
+If you are reusing data [internal link to reusing data], usually that will be pretty straightforward as you can read or ask the data provider this information. If you are collecting your own data, then here is a guide to do so:
 1. Start by thinking about how many observations, participants, data points you expect to collect. This may be quite specific for your research. 
-    - If you are collecting survey data, try to assess how many participants you expect and how many questions your survey will have. - If you are working with audio data, then think about the length of each audio file and the number of audio files. 
+    - If you are collecting survey data, try to assess how many participants you expect and how many questions your survey will have. 
+    - If you are working with audio data, then think about the length of each audio file and the number of audio files. 
     - For pictures you should think about the size and quality of each picture, alongside the general number.
     add other examples from stem??
 
@@ -81,17 +86,17 @@ If you are reusing data [internal link to reusing data], usually that will be pr
 
 3. You can use a file size calculator to see the expected size of your data. You can easily find these calculators online, here is an example of an [audio file calculator](https://www.omnicalculator.com/other/audio-file-size "try it out!") and of an [image file calculator](https://www.omnicalculator.com/other/image-file-size "try it out!"). 
 
-**Final tips for data size estimation** 
+**Extra tips for data size estimation** 
 
 Usually when we estimating data size we already have a storage of choice in mind. Therefore, your goal when estimating how much space you will need to store your data, is figuring out whether this storage that you have a preference for is appropriate or not.
 
-Since you know how much available space you have in your preferred storage option, you may also choose to work with rough estimations. For example, if you know that you have 10GB available in your storage, you may know that this is roughly equivalent to:
+Since you know how much available space you have in your preferred storage option, you may also choose to work with rough estimations. For example, if you know that you have 10GB available in your storage, you may know that this is *roughly* equivalent to:
 - 2000 to 3000 high quality JPEG images (average size 3.5 MB per image)
 - 10 Excel files with roughly 1 million rows each and 10-15 columns
 - 120-200 hours of MP3 audio recordings (at 128 kbps)
 Therefore, if you are planning for a 100 people survey with 30 questions, you do not need to make a precise estimation of your data as you know that it will be well within the 10GB available space. 
 
-!! Remember that your data is not stored in isolation: you should also store documentation alongside it and you may also choose to store your analysis, outputs, etc. in the same digital space. Therefore, you should also keep those other objects into account when estimating your storage needs. Most times, data may be the heaviest, biggest part of what you want to store.
+! Remember that your data is not stored in isolation: you should also store documentation alongside it and you may also choose to store your analysis, outputs, etc. in the same digital space. Therefore, you should also keep those other objects into account when estimating your storage needs. Most times, data may be the heaviest, biggest part of what you want to store.
 
 Generally speaking, it is best to overestimate a little, in order to make sure you have enough space. 
 
@@ -134,7 +139,7 @@ In {numref}`Figure {number} <file-size-format>` you can see the format circled.
 
 - What file formats do you typically use? 
 - Do you usually choose a format (save as...) or do you rely on the format suggested/default of your laptop? 
-- Have you ever had trouble opening a file because eof its format? (e/g/ format not supported; what program would you like to use to open this file?)  
+- Have you ever had trouble opening a file because of its format? (e/g/ format not supported; what program would you like to use to open this file?)  
 </span>
 ```
 ```{admonition} VIDEO: What is a file format? 
@@ -144,10 +149,10 @@ In {numref}`Figure {number} <file-size-format>` you can see the format circled.
 ```
 :::::
 
-Some file formats are proprietary – like .nef or .wma which are owned by Nikon and Microsoft. Other file formats like .txt or .csv are non-proprietary and can be used with a variety of software. Different file formats have different characteristics and properties and thus determine how data can be used. The **purpose** of a file should help determine which file format to choose. Therefore, you may have to keep some data files in multiple formats. It is important to plan what file formats to use for each purpose: data collection/ processing/analysis, reuse, and preservation.  
+Some file formats are *proprietary* – like .nef or .wma which are owned by Nikon and Microsoft. Other file formats like .txt or .csv are *non-proprietary* and can be used with a variety of software. Different file formats have different characteristics and properties and thus determine how data can be used. The **purpose** of a file should help determine which file format to choose. Therefore, you may have to keep some data files in multiple formats. It is important to plan what file formats to use for each purpose: data collection, processing, analysis, reuse, and preservation.  
 
 ```{admonition} Data horror story
-:class: warning darkorange dropdown
+:class: :class: warning orangered dropdown
 
 <span style="color:black"> 
 data horror story love data week
