@@ -13,9 +13,11 @@ This section will help you:
 ```
 ````
 
-***Data literacy* refers to how competent an individual is in collecting, analysing, interpreting, 
-evaluating, storing, sharing, and communicating data, while bearing ethical, integrity, 
-privacy, and security considerations.** 
+
+:::{prf:definition}
+:class: hint gold
+**Data literacy** refers to how competent an individual is in *collecting*, *analysing*, *interpreting*, *evaluating*, *storing*, *sharing*, and *communicating* data, while bearing *ethical*, *integrity*, *privacy*, and *security* considerations.
+:::
 
 As you might have noticed in the definition above, there are multiple competences and aspects to consider in the journey to become data literate. You will require *knowledge* (e.g., the know what), *skills* (e.g., the know how), but also suitable *attitudes* (e.g., embracing specific personal and/or organisational values).
 
