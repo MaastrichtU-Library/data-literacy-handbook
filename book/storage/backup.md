@@ -24,7 +24,7 @@ Data management plan {cite:p}`turing-way-scriberia-images`
 
 Not all data storage is created equal: some things are better than others
 
-
+testing: {term}`data literacy`
 
 ## Backup 
 

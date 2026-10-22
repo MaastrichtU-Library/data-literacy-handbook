@@ -96,6 +96,7 @@ parts:
   
   - caption: Miscellaneous
     chapters:
+    - file: glossary.md
     - file: genindex.md
     - file: references.md
     - file: changelog.md
