@@ -11,8 +11,8 @@ This section will help you:
 ````
 
 
-Data can be seen as factual information used as a basis for reasoning, discussion, or calculation {cite:ps}`merriam-webster-data`. 
-
+Data can be seen as factual information used as a basis for reasoning, discussion, or calculation {cite:ps}`merriam-webster-data`.
+ 
 
 %%(add the phdcomics on data singular or plural)
 
