@@ -12,13 +12,13 @@ project.
 - evaluate one's data literacy to identify gaps and learning opportunities.
 ```
 ````
-Navigating today’s data-rich world requires critical thinking and the ability to understand how to work with data. 
+**Navigating today’s data-driven world requires awareness, critical thinking, and the ability to understand how to work with data.** 
 
-Let's examine how data literacy plays a role across three distinctive domains.
+Let's first examine how data literacy plays a role across three broad yet distinctive domains.
 
 ## Research domain
 
-Data literacy is of course relevant in the research domain as, without it, academics would not manage to effectively collect and analyse data in order to produce meaningful results.
+**Data literacy** is relevant in the research domain as, without it, academics would not be able to effectively collect, manage, and analyse data in order to produce novel and meaningful scientific results. **ethical**
 
 ## Societal domain
 Beyond the research domain, data literacy is required for citizens to critically evaluate information that is presented to them in the news or social media.
