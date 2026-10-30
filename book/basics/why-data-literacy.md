@@ -7,33 +7,47 @@ This section will help you:
 - understand the general principles of data literacy.
 - explain the usefulness of data literacy skills for different aspects and stages of a (research) 
 project.
-- explain the usefulness of data literacy skills for different aspects and stages of a (research) project.
 - explain the importance and relevance of data literacy in one's discipline. 
-- evaluate one's data literacy to identify gaps and learning opportunities.
 ```
 ````
 **Navigating today’s data-driven world requires awareness, critical thinking, and the ability to understand how to work with data.** 
 
-Let's first examine how data literacy plays a role across three broad yet distinctive domains.
+Let's first examine how {term}`data literacy` plays a role across three broad, yet distinctive domains.
+
+```{figure} ../figures/research-binary.png
+---
+width: 15%
+align: left
+---
+```   
 
 ## Research domain
+Data literacy is relevant in the research domain as—without it— academics would not be able to effectively collect, manage, and analyse data in order to produce novel and meaningful scientific results. For example, data collected in a survey study to understand the attitudes of adolescents towards climate change.
 
-**Data literacy** is relevant in the research domain as, without it, academics would not be able to effectively collect, manage, and analyse data in order to produce novel and meaningful scientific results. **ethical**
+```{figure} ../figures/society-binary.png
+---
+width: 15%
+align: left
+---
+```  
 
 ## Societal domain
-Beyond the research domain, data literacy is required for citizens to critically evaluate information that is presented to them in the news or social media.
+Beyond the research domain, data literacy is required for citizens to critically evaluate information that is presented to them in the news or social media. For example, a political ad in favour of a specific candidate in the upcoming national elections, presenting data on the achievements of the current government.
 
 ## Business domain
-Data literacy is also used by employees, who use data-driven insights for making policy or effective business decisions. 
+Data literacy is also used by employees in public or private companies. For example, when they use data-driven insights to inform policy or a business decisions.
 
-Regardless of the domain you are in, you will often come across data-related concepts, which are often overused until they become *buzzwords*. Do you recognise any of the following?
-- "Data-driven decision-making"
-- "Big-data"
-- "Data sovereignty"
-- "Open data"
-- "Datafication"
+While other domains are sometimes referred, this handbook lays the basics for data literacy in the *research domain*.
 
-While other domains are sometimes referred, this handbook lays the basics for data literacy in the *research domain*. 
+Can you think of examples that showcase how data are used in your own discipline? How are data most typically collected in studies? How is the 
+
+Regardless of the domain you are in, you will often come across data-related concepts or topics, some of which might have been overused until they became *buzzwords*. Do you recognise any of the following?
+
+- {term}`Data-driven decision-making`
+- {term}`Big data`
+- {term}`Data sovereignty`
+- {term}`Open data`
+- {term}`Datafication`
 
 ```{admonition} Delve deeper into this subject! 
 :class: note grey 
