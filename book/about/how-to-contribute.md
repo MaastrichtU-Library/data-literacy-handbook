@@ -2,6 +2,10 @@
 
 **The *Data Literacy Handbook* is edited by <a href="https://library.maastrichtuniversity.nl/">Maastricht University Library</a> and is based on the contributions by multiple individuals and other open (educational) resources.**
 
+{term}`data literacy` 
+
+[data literacy](genindex)
+
  The full list of individual contributors can be found in our <a href="https://maastrichtu-library.github.io/data-literacy-handbook/">GitHub repository</a>.<br>
 
 ```{figure} ../figures/collaboration.jpg

@@ -202,6 +202,15 @@ Retrieved 2026-08-13, License - CC BY-SA 4.0
 <span style="color:blue">some *blue* text</span>.
 
 
+# INDEXED DEFINITIONS
+% https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Indexed-Definitions/manual/README.html
+% https://jupyter-book.readthedocs.io/v1/content/content-blocks.html#content-indexes 
+:::{prf:definition}
+:class: hint gold
+**data literacy** refers to how competent an individual is in collecting, analysing, interpreting, evaluating, storing, sharing, and communicating data, while bearing ethical, integrity, privacy, and security considerations.
+:::
+
+
 # CITING
 % https://teachbooks.io/manual/features/apa.html 
 
@@ -218,3 +227,4 @@ Retrieved 2026-08-13, License - CC BY-SA 4.0
 As user type 3 you will work primarily in `.md` (Markdown) or `.ipynb`(Jupyter Notebook) files. In TeachBooks, `.md` files contain text-based content with formatting, while `ipynb` files contain both text and executable code cells. `.md` files are much easier to edit online, so let's start with those!
 
 The more you write, the more different types of content you'll want to use. [JupyterBook v1 itself provides a cheatsheet](https://jupyterbook.org/v1/reference/cheatsheet.html) which will come in handy!
+
