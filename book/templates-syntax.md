@@ -210,6 +210,11 @@ Retrieved 2026-08-13, License - CC BY-SA 4.0
 **data literacy** refers to how competent an individual is in collecting, analysing, interpreting, evaluating, storing, sharing, and communicating data, while bearing ethical, integrity, privacy, and security considerations.
 :::
 
+# Glossary 
+https://jupyter-book.readthedocs.io/v1/content/content-blocks.html#indexes:~:text=%7Bterm%7D%60Term%20one 
+
+{term}`Term one`
+
 
 # CITING
 % https://teachbooks.io/manual/features/apa.html 

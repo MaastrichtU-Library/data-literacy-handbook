@@ -124,7 +124,7 @@ Data is digitally stored in files, which can be saved in different formats. File
 >
 > **[prefix].[suffix]**             or          **filename.type**
 
-The prefix is a [name](#naming-folders-and-files) which is used to identify the file, and the suffix indicates the file type. In this way files of the type .txt are text encoded files and usually contain text and/or numbers. Images are often saved in .jpg or .bmp while audio can be saved in the .mp3 or .wav file format.  
+The prefix is a [name](../storage/naming-conventions.md) which is used to identify the file, and the suffix indicates the file type. In this way files of the type .txt are text encoded files and usually contain text and/or numbers. Images are often saved in .jpg or .bmp while audio can be saved in the .mp3 or .wav file format.  
 
 In {numref}`Figure {number} <file-size-format>` you can see the format circled. 
 
@@ -151,7 +151,7 @@ In {numref}`Figure {number} <file-size-format>` you can see the format circled.
 
 Some file formats are *proprietary* – like .nef or .wma which are owned by Nikon and Microsoft. Other file formats like .txt or .csv are *non-proprietary* and can be used with a variety of software. Different file formats have different characteristics and properties and thus determine how data can be used. The **purpose** of a file should help determine which file format to choose. Therefore, you may have to keep some data files in multiple formats. It is important to plan what file formats to use for each purpose: data collection, processing, analysis, reuse, and preservation.  
 
-```{admonition} Data horror story
+```{admonition} Data horror story [TO DO]
 :class: :class: warning orangered dropdown
 
 <span style="color:black"> 
@@ -159,94 +159,222 @@ data horror story love data week
 
 ```
 
-```{iframe} https://dans-labs.github.io/formats/
-```
 
-% it would be best to include the one below: BUT DANS does not allow embedding this and it is blocked... + all rights reserved? so maybe just a link? If not just a link, possible solution is tab-set divided per kind of data. How to FAIR also has a list, less exhaustive. 
-```{iframe} https://dans.knaw.nl/en/file-formats/
-```
 
 
 ::::{tab-set}
 
-:::{tab-item} Text documents (to do)
-are data about a project or resource that are relevant for managing it. These are usually assigned to the data, before you collect or create them.
-* project owner
-* principal investigator
-* project collaborators
-* funder
-* project period
-* the list goes on!   
+:::{tab-item} Text and documents 
+
+Preferred formats: 
+- PDF/A (.pdf)
+- ODT (.odt)
+- unicode text (.txt)
 
 
-
-<sub>The content above is taken from: {cite:t}`how-to-fair-metadata`.</sub>
-:::
-
-:::{tab-item} Plain text (to do)
-are data about a dataset or resource that provide general background information on it. 
-
-* authors
-* title
-* description
-* keywords
-* the list goes on!  
-
-
-
-
-<sub>The content above is taken from: {cite:t}`how-to-fair-metadata`.</sub>
-:::
-
-:::{tab-item} Markup language (to do)
-is your data published and reausable? Then descriptive metadata serve as citation metadata: data about a dataset or resource that allow people to discover and identify it.
-
-* authors
-* title
-* description
-* keywords
-* persistent identifier
-* related publications  
-* the list goes on!  
-
-
-
-
-<sub>The content above is taken from: {cite:t}`how-to-fair-metadata`.</sub>
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
 :::
 
 
-:::{tab-item} Spreadsheet (to do) 
-are data about how a dataset or resource came about, but also how it is internally structured.
-* the unit of analysis
-* collection method
-* sampling procedure
-* sample size
-* categories
-* variables
-* the list goes on!
 
+:::{tab-item} Spreadsheets
 
+Preferred formats; 
+- ODS (.ods)
+- CSV (.csv)
 
-
-<sub>The content above is taken from: {cite:t}`how-to-fair-metadata`.</sub>
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
 :::
 
-:::{tab-item} Legal metadata
-are data about how the dataset or resource can be used.
 
-* copyright
-* license
-* terms of use
-* required agreements 
-* the list goes on!  
+:::{tab-item} Markup 
 
+Preferred formats: 
+- XML (.xml)
+- HTML (.html)
+- Related files: .css, .xslt, .js, .es
 
 
 
-<sub>The content above is adapted from: {cite:ts}`the-twc-metadata`.</sub>
-
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
 :::
+
+:::{tab-item} Statistical data
+
+Preferred formats:
+
+- SPSS (.dat/.sps)
+- STATA (.dat/.DO)
+- JASP (.csv/.html)
+- R
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+:::{tab-item} Databases
+
+Preferred formats:
+
+- SQL (.sql)
+- SIARD (.siard)
+- CSV (.csv) 
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+
+:::{tab-item} Audio
+
+Preferred formats:
+
+- BWF (.bwf)
+- MXF (.mxf)
+- Matroska (.mka)
+- FLAC (.flac)
+- OPUS
+
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+:::{tab-item} Video
+
+Preferred formats:
+
+- MXF (.mxf)
+- Matroska (.mkv)
+
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+
+:::{tab-item} Images
+
+Preferred formats for [raster images](https://dans.knaw.nl/en/file-formats/images-raster/):
+
+- JPEG (.jpg, .jpeg)
+- TIFF (.tif, .tiff)
+- PNG (.png)
+- JPEG 2000 (.jp2)
+- DICOM (.dcm)
+
+
+Preferred formats for [vector images](https://dans.knaw.nl/en/file-formats/images-vector/):
+
+- SVG (.svg)
+
+Preferred formats for [computer aided design (CAD)](https://dans.knaw.nl/en/file-formats/images-vector/):
+
+- AutoCAD DXF version R12 (ASCII) (.dxf)
+- SVG (.svg)
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+
+:::{tab-item} Geographical images and systems
+
+Preferred formats for [geographical information systems (GIS)](https://dans.knaw.nl/en/file-formats/geographical-information-systems-gis/):
+
+- GML (.gml)
+- MIF/MID (.mif/.mid)
+- GeoJSON (.json)
+- GeoPackage (.gpgk)
+
+Preferred formats for [raster GIS](https://dans.knaw.nl/en/file-formats/raster-gis/):
+
+- ASCII GRID (.asc, .txt)
+
+Preferred formats for [georeferenced images](https://dans.knaw.nl/en/file-formats/images-georeference/):
+
+- GeoTIFF (.tif, .tiff)
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+:::{tab-item} 3D
+
+Preferred formats:
+
+- WaveFront Object (.obj)
+- Polygon file format (.ply)
+- X3D (.x3d)
+- glTF 2.0 (.gltf; .glb)
+- COLLADA (.dae)
+- LASer (.las, .laz)
+- IFC (.ifc)
+
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+:::{tab-item} RDF (resource description framework)
+
+Preferred formats:
+
+- RDF/XML
+- Trig (.trig)
+- Turtle (.ttl)
+- NTriples (.nt)
+- JSON-LD
+
+
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
+
+:::{tab-item} Qualitative data analysis programs
+
+[CAQDAS (Computer Assisted Qualitative Data Analysis) programs](https://dans.knaw.nl/en/file-formats/computer-assisted-qualitative-data-analysis-caqdas/) facilitate the analysis of qualitative data a laptop or online environment. Examples are ATLAS.ti, MAXqda, and NVivo.
+
+Preferred formats:
+
+- REFI-QDA (Qualitative Data Analysis)
+
+
+
+
+
+
+
+
+<sub>Want to learn more about these formats? Check out: {cite:t}`dans-formats`.</sub>
+:::
+
 
 
 ::::
@@ -283,7 +411,7 @@ Continue reading the article on the [How to Fair website](https://howtofair.dk/h
 
 ````
 
-## Interoperability [to do : edit below + LOD link?]
+## Interoperability [TO DO: edit below + LOD link?]
 
 !! File conversion can lead to data loss
 
