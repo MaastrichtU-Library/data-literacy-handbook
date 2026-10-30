@@ -12,3 +12,9 @@ The Data Literacy Handbook is a curated collection of (open educational) resourc
 The handbook aims to be useful for both students and educators. To get started, we highly recommend you to use our [navigation guide](../book/about/how-to-use-this-handbook.md), where we recommend specific learning trajectories. Alternatively, feel free to explore this book in your own way and at your own pace.
 
 We hope you enjoy this handbook, and wish you a lot of success in becoming [data literate](../book/about/what-is-data-literacy.md)!
+
+
+
+{term}`data literacy` 
+
+{term}`test` 
