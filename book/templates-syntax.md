@@ -54,6 +54,17 @@ Research Data Lifecyle {cite:p}`turing-way-scriberia-images`
 - note that emphasis should only be made via italics.
 - note that if you are citing a source you need to make sure that the source is included in the references.bib file.
 
+## IMAGES ALIGNED LEFT
+
+```{image} ../figures/<name>.png
+---
+width: 10%
+:alt: <figure >
+align: left
+---
+```  
+- note that the main difference is if you use IMAGE or FIGURE at the beginning. The IMAGE one facilitates that there is proper alignment
+
 # ADMONITIONS: 
 
 % https://myst-parser.readthedocs.io/en/latest/syntax/admonitions.html
@@ -233,3 +244,68 @@ As user type 3 you will work primarily in `.md` (Markdown) or `.ipynb`(Jupyter N
 
 The more you write, the more different types of content you'll want to use. [JupyterBook v1 itself provides a cheatsheet](https://jupyterbook.org/v1/reference/cheatsheet.html) which will come in handy!
 
+# QUIZ / TEST YOUR KNOWLEDGE 
+
+## Test your knowledge!
+
+:::::{admonition} Answer the following questions to check your familiarity with data!
+:class: teachbooks-question dropdown
+ 
+ 
+::::{question} What are some synonyms for data?
+:type: multiple-choice
+:variant: multiple-select
+:showanswer:
+:nocaption:
+ 
+---
+[x] facts
+[ ] news
+[x] digits
+[x] stats
+---
+::::
+ 
+::::{question} Which one of the following quotes is attributed to Sherlock Holmes?
+:type: multiple-choice
+:variant: single-select
+:showanswer:
+:nocaption:
+ 
+---
+[ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
+> Try again! This quote is attributed to Ruha Benjamin
+[ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
+> Try again! This quote is attributed to Mark Twain  
+[ ] Without data, you're just another person with an opinion.
+> Try again! This quote is attributed to William Edwards Deming
+[ ] The goal is to turn data into information, and information into insight.
+> Try again! This quote is attributed to Carly Fiorina
+[x] It is a capital mistake to theorize before one has data.
+> Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
+[ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
+> Try again! This quote is attributed to John Naisbitt
+[ ] Data are records of activity; they can be recoded to reveal patterns that would otherwise remain hidden.
+> Try again! This quote is attributed to Shoshana Zuboff
+ 
+---
+::::
+
+::::{question} What does "data provenance" refer to?
+:type: multiple-choice
+:variant: single-select
+:showanswer:
+:nocaption:
+---
+[ ] the size of a dataset
+> Try again!
+[ ] the analysis results
+> Try again!  
+[ ] the number of variables in a dataset
+> Try again!
+[x] the origin, history, and processing steps of the data
+> Indeed!  
+---
+::::
+ 
+:::::
