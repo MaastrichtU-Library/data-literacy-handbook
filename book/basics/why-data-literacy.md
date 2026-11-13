@@ -1,53 +1,148 @@
 # Why is Data Literacy important? 
 ````{margin}
-```{admonition} Data Literacy competences
-:class: tip dropdown
+```{admonition} Competences
+:class: tip dropdown cornflowerblue
+
+<span style="color:black">
 This section will help you:
 
-- understand the general principles of data literacy.
 - explain the usefulness of data literacy skills for different aspects and stages of a (research) 
 project.
 - explain the importance and relevance of data literacy in one's discipline. 
+</span>
 ```
 ````
-**Navigating today’s data-driven world requires awareness, critical thinking, and the ability to understand how to work with data.** 
 
-Let's first examine how {term}`data literacy` plays a role across three broad, yet distinctive domains.
+**Navigating today’s data-driven world requires awareness, critical thinking, and a wide range of skills.** 
 
-```{figure} ../figures/research-binary.png
+To understand the importance of data literacy, let's begin by examining how {term}`data literacy` plays a role across three broad domains.
+
+```{image} ../figures/research-binary.png
 ---
-width: 15%
+width: 6%
+:alt: Research domain
 align: left
 ---
-```   
+```  
 
 ## Research domain
-Data literacy is relevant in the research domain as—without it— academics would not be able to effectively collect, manage, and analyse data in order to produce novel and meaningful scientific results. For example, data collected in a survey study to understand the attitudes of adolescents towards climate change.
 
-```{figure} ../figures/society-binary.png
+Data literacy is relevant in the research domain as, without it, academics would not be able to effectively collect, manage, and analyse data in order to produce novel and meaningful scientific results. For example, data collected in a survey study to understand the attitudes of adolescents towards climate change.
+
+```{image} ../figures/society-binary.png
 ---
-width: 15%
+width: 8%
+:alt: Society domain
 align: left
 ---
 ```  
 
 ## Societal domain
-Beyond the research domain, data literacy is required for citizens to critically evaluate information that is presented to them in the news or social media. For example, a political ad in favour of a specific candidate in the upcoming national elections, presenting data on the achievements of the current government.
+
+Beyond the research domain, data literacy is required for citizens to critically evaluate data that are presented to them in the news or social media. For example, a political ad in favour of a specific candidate in the upcoming national elections, presenting data on their previous achievements.
+
+```{image} ../figures/business-binary.png
+---
+width: 8%
+:alt: Business domain
+align: left
+---
+``` 
 
 ## Business domain
-Data literacy is also used by employees in public or private companies. For example, when they use data-driven insights to inform policy or a business decisions.
 
-While other domains are sometimes referred, this handbook lays the basics for data literacy in the *research domain*.
+Data literacy is also used by managers and employees in public or private companies. For example, when the company focuses on data-driven insights to inform a new policy, decision, or way-of-working.
 
-Can you think of examples that showcase how data are used in your own discipline? How are data most typically collected in studies? How is the 
+## Research data life cycle
 
-Regardless of the domain you are in, you will often come across data-related concepts or topics, some of which might have been overused until they became *buzzwords*. Do you recognise any of the following?
+This handbook focuses on the basics for data literacy in the *research domain*, while other domains are referred to when relevant. When discussing the importance of data literacy in research, the most practical way to approach it is to think about the "[research data life cycle](../basics/data-lifecycle.md)".
+
+```{admonition} Can you elaborate a concrete example that illustrates how data are used in your own discipline?
+:class: tip plum
+
+<span style="color:black">
+
+- How are data typically collected when doing research in your own discipline?
+- How are these data usually processed or analysed?
+- Are datasets typically shared and reused?
+</span>
+```
+
+## What we talk about when we talk about data
+
+Regardless of the domain you are in, you will often come across data-related concepts or (hot) topics, some of which might be so overused that they have become *buzzwords* (i.e., popular words, more often used just to impress than to refer to their original meaning). For instance, have you ever heard of any of the following?
 
 - {term}`Data-driven decision-making`
 - {term}`Big data`
 - {term}`Data sovereignty`
 - {term}`Open data`
 - {term}`Datafication`
+
+Data literacy is also important because it will help you understand some of these concepts, where they come from, and their usefulness in specific contexts.
+
+## Test your knowledge!
+
+:::::{admonition} Answer the following questions to check your familiarity with data!
+:class: teachbooks-question dropdown
+ 
+ 
+::::{question} What are some synonyms for data?
+:type: multiple-choice
+:variant: multiple-select
+:showanswer:
+:nocaption:
+ 
+---
+[x] facts
+[ ] news
+[x] digits
+[x] stats
+---
+::::
+ 
+::::{question} Which one of the following quotes is attributed to Sherlock Holmes?
+:type: multiple-choice
+:variant: single-select
+:showanswer:
+:nocaption:
+ 
+---
+[ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
+> Try again! This quote is attributed to Ruha Benjamin
+[ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
+> Try again! This quote is attributed to Mark Twain  
+[ ] Without data, you're just another person with an opinion.
+> Try again! This quote is attributed to William Edwards Deming
+[ ] The goal is to turn data into information, and information into insight.
+> Try again! This quote is attributed to Carly Fiorina
+[x] It is a capital mistake to theorize before one has data.
+> Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
+[ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
+> Try again! This quote is attributed to John Naisbitt
+[ ] Data are records of activity; they can be recoded to reveal patterns that would otherwise remain hidden.
+> Try again! This quote is attributed to Shoshana Zuboff
+ 
+---
+::::
+
+::::{question} What does "data provenance" refer to?
+:type: multiple-choice
+:variant: single-select
+:showanswer:
+:nocaption:
+---
+[ ] the size of a dataset
+> Try again!
+[ ] the analysis results
+> Try again!  
+[ ] the number of variables in a dataset
+> Try again!
+[x] the origin, history, and processing steps of the data
+> Indeed!  
+---
+::::
+ 
+:::::
 
 ```{admonition} Delve deeper into this subject! 
 :class: note grey 
@@ -57,246 +152,3 @@ Regardless of the domain you are in, you will often come across data-related con
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
 ```
-
-
-## Quiz
-
-:::::{card}
-
-**Are you up for a little challenge? Answer the following questions to check your familiarity with data!**
-
-::::{question} What are some synonyms for data? 
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: multiple-select
-:showanswer:
-:nocaption:
-
----
-[x] facts
-[ ] news
-[x] digits
-[x] stats
----
-::::
-
-::::{question} What is not a kind of data? Find the impostor(s)
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: multiple-select
-:showanswer:
-:nocaption:
-
----
-[ ] personal data
-[x] questioning data
-[ ] qualitative data
-[ ] census data
-[x] transitive data
----
-::::
-
-::::{question} Which one of the following quotes is attributed to Sherlock Holmes?
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
-
----
-[ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
-> Try again! This quote is attributed to Ruha Benjamin 
-[ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
-> Try again! This quote is attributed to Mark Twain  
-[ ] Without data, you're just another person with an opinion.
-> Try again! This quote is attributed to William Edwards Deming 
-[ ] The goal is to turn data into information, and information into insight.
-> Try again! This quote is attributed to Carly Fiorina
-[x] It is a capital mistake to theorize before one has data.
-> Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
-[ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
-> Try again! This quote is attributed to John Naisbitt
-[ ] Data are records of activity; they can be recoded to reveal patterns that would otherwise remain hidden.
-> Try again! This quote is attributed to Shoshana Zuboff
-
----
-::::
-
-::::{question} File formats: who is the impostor?
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[x] .xls
-> Indeed! All the other formats are independent of specfic software, developers, or vendors, while .xls is a format developed and used in the Microsoft Office system. While it can be opened by other software as well, this may cause errors.  
-[ ] .csv
-> Try again!   
-[ ] .txt
-> Try again! 
-[ ] .odt
-> Try again!  
----
-::::
-
-::::{question} What does "data provenance" refer to?
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[ ] the size of a dataset
-> Try again! 
-[ ] the analysis results
-> Try again!   
-[ ] the number of variables in a dataset
-> Try again! 
-[x] the origin, history, and processing steps of the data
-> Indeed!  
----
-::::
-
-::::{question} In the list below, what could be considere the most problematic consent practice from an ethical perspective when working with human participants?
-:admonition:
-:class: teachbooks-question dropdown
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[ ] explicit informed consent
-> Obtaining explicit informed consent is a good and recommended practice within research. 
-[ ] oral consent
-> Informed consent can be obtained orally provided that this is well documented by the researcher (via recording and/or a log). This may be appropriate especially when working with (semi-)illiterate participants or communities that may distrust physical forms. 
-[ ] continuous consent
-> In continuous consent the researcher check-in on the participants at multiple points during the project to ensure that the participant is still willing to paricipate. In research projects in which the researcher and the participants are in contact multiple times and/or for a longer period of time, this can hlp build trust between the researcher and the participants. 
-[x] opt-out consent
-> Ideed, opt-out procedures may be justified only in special circumstances and must be reviewd by and Ethics Review Committee.
-
----
-::::
-
-:::::
-
-
-
-## Quiz example 2
-
-:::::{admonition} Are you up for a little challenge? Answer the following questions to check your familiarity with data!
-:class: teachbooks-question dropdown
-
-
-::::{question} What are some synonyms for data? 
-:type: multiple-choice
-:variant: multiple-select
-:showanswer:
-:nocaption:
-
----
-[x] facts
-[ ] news
-[x] digits
-[x] stats
----
-::::
-
-::::{question} What is not a kind of data? Find the impostor(s)
-:type: multiple-choice
-:variant: multiple-select
-:showanswer:
-:nocaption:
-
----
-[ ] personal data
-[x] questioning data
-[ ] qualitative data
-[ ] census data
-[x] transitive data
----
-::::
-
-::::{question} Which one of the following quotes is attributed to Sherlock Holmes?
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
-
----
-[ ] Data are not simply "out there" waiting to be discovered; they are produced within systems of power and meaning.
-> Try again! This quote is attributed to Ruha Benjamin 
-[ ] Data is like garbage. You'd better know what you are going to do with it before you collect it.
-> Try again! This quote is attributed to Mark Twain  
-[ ] Without data, you're just another person with an opinion.
-> Try again! This quote is attributed to William Edwards Deming 
-[ ] The goal is to turn data into information, and information into insight.
-> Try again! This quote is attributed to Carly Fiorina
-[x] It is a capital mistake to theorize before one has data.
-> Indeed! This is a quote that Sherlock Holmes said in "A study in Scarlet" by Arthur Conan Doyle
-[ ] We are drowning in information but starved for knowledge; data are plentiful, but insight is scarce.
-> Try again! This quote is attributed to John Naisbitt
-[ ] Data are records of activity; they can be recoded to reveal patterns that would otherwise remain hidden.
-> Try again! This quote is attributed to Shoshana Zuboff
-
----
-::::
-
-::::{question} File formats: who is the impostor?
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[x] .xls
-> Indeed! All the other formats are independent of specfic software, developers, or vendors, while .xls is a format developed and used in the Microsoft Office system. While it can be opened by other software as well, this may cause errors.  
-[ ] .csv
-> Try again!   
-[ ] .txt
-> Try again! 
-[ ] .odt
-> Try again!  
----
-::::
-
-::::{question} What does "data provenance" refer to?
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[ ] the size of a dataset
-> Try again! 
-[ ] the analysis results
-> Try again!   
-[ ] the number of variables in a dataset
-> Try again! 
-[x] the origin, history, and processing steps of the data
-> Indeed!  
----
-::::
-
-::::{question} In the list below, what could be considere the most problematic consent practice from an ethical perspective when working with human participants?
-:type: multiple-choice
-:variant: single-select
-:showanswer:
-:nocaption:
----
-[ ] explicit informed consent
-> Obtaining explicit informed consent is a good and recommended practice within research. 
-[ ] oral consent
-> Informed consent can be obtained orally provided that this is well documented by the researcher (via recording and/or a log). This may be appropriate especially when working with (semi-)illiterate participants or communities that may distrust physical forms. 
-[ ] continuous consent
-> In continuous consent the researcher check-in on the participants at multiple points during the project to ensure that the participant is still willing to paricipate. In research projects in which the researcher and the participants are in contact multiple times and/or for a longer period of time, this can hlp build trust between the researcher and the participants. 
-[x] opt-out consent
-> Ideed, opt-out procedures may be justified only in special circumstances and must be reviewd by and Ethics Review Committee.
-
----
-::::
-
-:::::
