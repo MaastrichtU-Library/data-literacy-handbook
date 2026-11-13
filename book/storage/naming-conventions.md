@@ -10,7 +10,7 @@ This section will help you:
 ```
 ````
 
-
+% add quiz with example of naming conventions
 
 -- insert intrduction --
 

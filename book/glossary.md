@@ -1,6 +1,8 @@
 # Glossary 
 
 ```{glossary}
+Anonymisation
+  is a technique that makes data unlinkable to any individual [TO DO: CITE https://www.edpb.europa.eu/topics/ai-and-technology/anonymisation-pseudonymisation_en --- CONSIDER USING DEFINITIONS FROM THE LECTURE AT FASOS]
 Big data
   Often used as a *buzzword*, big data refers to datasets that are too large or complex than the typical datasets in a specific context.
 
@@ -16,6 +18,26 @@ Data literacy
 Data sovereignty
   Refers to the ability of a country to govern, regulate and control over the data generated within it's territories.
 
+Interoperability
+  Is a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, present or future, in either implementation or access, without any restrictions. 
+% definition is direct quote from https://web.archive.org/web/20170314064547/http://interoperability-definition.info/en/
+
 Open data
   refers to data that are openly accessible and reusable. It is often used as a *buzzword* or a simplification of the concept of **FAIR data**.
+
+Open standards
+  refers to x and y [TO DO] 
+% https://en.wikipedia.org/wiki/Interoperability 
+
+Personal data
+  means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. (Art. 4 GDPR) [TO DO: is this reference good enough?]
+
+Pseudonymisation
+  is a safeguard that reduces the linkability of data to a specific individual, but without aiming at completely cutting that link. [TO DO: CITE https://www.edpb.europa.eu/topics/ai-and-technology/anonymisation-pseudonymisation_en ]
+
+Raw data
+  is unprocessed data. This means that the data has not gone through any process such as data cleaning, pseuodnymisation, subsetting, anonymisation, dropping of variables or observations.
+
+README file
+  A README file is documentation that provides essential information about the dataset, its contents, how to use it, and any relevant details for users [TO DO: cite RDM guidebook for students]
 ```

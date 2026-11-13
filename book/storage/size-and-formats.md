@@ -59,15 +59,16 @@ Sometimes, this limit is technical and fixed, such as in USB keys or recording d
 ```{orchid} Reflect on this topic!
 :class: tip dropdown
 <span style="color:black">
-
+Your current device:
 - Do you know how much storage space does your current device have? 
 - Do you know how much free storage does your current device have?
+External solutions:
 - Do you use any external storage solutions such as hard drives or USB keys?
 - If so, how did you choose them? Did you choose a particular size for a particular occasion?
 - Do you use any external storage cloud solutions?
 - If so, do you know how much free space you have available? Do you know if you can upgrade to have more storage? 
 - In which conditions is it worth upgrading for you? 
-</span>.
+</span>
 ```
 ## How much (digital) space will your data need?
 
@@ -379,10 +380,6 @@ Preferred formats:
 
 ::::
 
-% the following syntax was generated in the howtofair website when asking to "share" the video. This is the only way to embed the video. Normal embedding does not work. 
-% <iframe title="vimeo-player" src="https://player.vimeo.com/video/423115819?h=c227613be0" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
-
 
 ````{admonition} Delve deeper into this subject! 
 :class: note grey 
@@ -413,6 +410,25 @@ Continue reading the article on the [How to Fair website](https://howtofair.dk/h
 
 ## Interoperability [TO DO: edit below + LOD link?]
 
+% https://web.archive.org/web/20170314064547/http://interoperability-definition.info/en/ 
+{term}`Interoperability` is the characteristic of a product (such as a dataset) or a system (such as a software for data analysis) to work with other products of systems based on {term}`Open standards`. 
+% add definition of Open standards to glossary [TO DO]
+
+
+```{figure} ../figures/degree-of-operability.png
+---
+width: 80%
+name: degree-of-operability   
+align: center
+---
+Degree of operability {cite:p}`definition-interoperability` 
+```
+
+Add more info, as seen in {numref}`Figure {number} degree-of-operability` 
+
+### File conversions and data loss  [TO DO]
+%remember to link to chapter on "how to avoid data loss" (aka backups)
+
 !! File conversion can lead to data loss
 
 To avoid loss of information in file conversion, it is important to use a common, multi-platform file format that follows specific standards, as you work on the data across different platforms and software solutions.  
@@ -427,13 +443,13 @@ For example: If you need to keep the history of changes in a document written in
 
 ```{admonition} VIDEO: The sidecar approach
 :class: seealso darkgreen dropdown
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/422759636?h=e5da05d1e2" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
 To ensure the interoperability and reusability of your data, **it is vital to preserve the data in a format common to your field.**
 
 For example, as long as [Carsten Brink](https://howtofair.dk/how-to-fair/#case-introductions:~:text=Sensitive%20quantitative%20data "Case introduction") is working with the images and the patients, he would not convert his DICOM images to TIFF, because the TIFF-format cannot contain all the metadata that are captured in the DICOM format (patient data, place of tumour, duration and dose of radiation etc.). But if the purpose later on is to preserve the images themselves, then TIFF would be an appropriate format. Any relevant metadata could be saved in another file in TXT format.
 
 **This is the so-called sidecar approach.**  
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/422759636?h=e5da05d1e2" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 <sub>The content above is taken from: {cite:t}`how-to-fair-file-formats`.</sub>
 ```
@@ -448,17 +464,17 @@ Continue reading the article here: [Key concepts of interoperability in educatio
 % https://librarycarpentry.github.io/lc-fair-research/04-interoperable/index.html
 
 
-## What about physical data?
+## What about physical data? [TO DO]
 
 
 fieldwork notebooks, bio samples, rocks, etc. 
 
-### where to keep
+### where to keep [TO DO]
 
 
-### how to keep
+### how to keep [TO DO]
 
-### digitise or not digitise? that is the question!
+### digitise or not digitise? that is the question! [TO DO]
 
 ```{figure} ../figures/digital-twin-without-text.jpg
 ---

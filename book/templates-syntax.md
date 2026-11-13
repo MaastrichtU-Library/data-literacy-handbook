@@ -97,6 +97,11 @@ This is a card with admonitions inside or an admonition into admonitions
 ```
 ````
 
+## EMBEDDING VIDEO FROM HOWTOFAIR WEBSITE
+% the following syntax was generated in the howtofair website when asking to "share" the video. This is the only way to embed the video. Normal embedding does not work. 
+% <iframe title="vimeo-player" src="https://player.vimeo.com/video/423115819?h=c227613be0" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+
 ## REFLECT ON THIS TOPIC ADMONITION
 
 ```{admonition} Reflect on this topic!
@@ -134,7 +139,7 @@ This card is a way to propose alternative activities to students/teachers. Each 
 
 <span style="color:black">
 <content content content>
-</span>.
+</span>
 ```
 
 ```{admonition} VIDEO: What is metadata? A visual story
@@ -184,7 +189,6 @@ This section will help you:
 ```
 ````
 
-```` 
 
 # QUESTIONS
 % https://teachbooks.io/manual/_git/github.com_TeachBooks_TeachBooks-Questions/main/MANUAL.html
@@ -215,6 +219,10 @@ https://jupyter-book.readthedocs.io/v1/content/content-blocks.html#indexes:~:tex
 
 {term}`Term one`
 
+Normally the above command works only with the exact match, this means same capitalisation and no space after the word in the glossary. To override the capitalisation match (e.g. if the word is mid-sentence), it is possible to inlcude the exact match in <>: 
+{term}`what the reader sees <exact match in the glossary>`
+for example:
+{term}`personal data <Personal data>`
 
 # CITING
 % https://teachbooks.io/manual/features/apa.html 
@@ -232,4 +240,5 @@ https://jupyter-book.readthedocs.io/v1/content/content-blocks.html#indexes:~:tex
 As user type 3 you will work primarily in `.md` (Markdown) or `.ipynb`(Jupyter Notebook) files. In TeachBooks, `.md` files contain text-based content with formatting, while `ipynb` files contain both text and executable code cells. `.md` files are much easier to edit online, so let's start with those!
 
 The more you write, the more different types of content you'll want to use. [JupyterBook v1 itself provides a cheatsheet](https://jupyterbook.org/v1/reference/cheatsheet.html) which will come in handy!
+
 
