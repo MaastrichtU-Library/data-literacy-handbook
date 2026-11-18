@@ -12,7 +12,7 @@ This section will help you:
 ```
 ````
 
-When working with data, it is important to have a good system to store and organize your different files (including data, metadata, documentation, analysis scripts etc.). A good organizing system is essential to ensure that you can easily navigate and retrieve the information needed, but it is also needed to ensure the security of your data and the privacy of your participants, if you have any (see [TO DO: link to privacy chapter on data separation??]). Moreover, when working in research groups, a shared understanding of how you plan to structure your (data) files is essential to ensure smooth collaboration. 
+When working with data, it is important to have a good system to store and organize your different files (including data, metadata, documentation, analysis scripts etc.). A good organizing system is essential to ensure that you can easily **navigate** and **retrieve** the information needed, but it is also needed to ensure the **security** of your data and the **privacy** of your participants, if you have any. Moreover, when working in research groups, a shared understanding of how you plan to structure your (data) files is essential to ensure smooth **collaboration**. 
 
 :::::{card}
 
@@ -69,10 +69,6 @@ Moreover, if you are working in a team, documenting your structure ensures that 
 
 The most straightforward way to do this, is through a {term}`README file`. In there, you can describe your structure as well as your rationale for it. You can learn more about README files in the [documentation chapter](../storage/documentation.md)
 
-{term}`Readme file`
-
-{term}`Readme file <README file>`
-
 ```{figure} ../figures/file-management-manual-no-title.jpg
 ---
 width: 80%
@@ -88,10 +84,18 @@ Structure often means hierarchy. When it comes to your data folders, that can al
 ## 3. ... but recognise when the hierarchy is not serving you anymore [TO DO: MAKE VISUAL EXAMPLE!!]
 However, make sure that you do not create unnecessary nested levels of folders. As a rule of thumb, three levels of nested-ness in your folder should be enough to keep you organised. If you have to access more than three subfolders before finding a file, you may want to reassess your system: do you really need all these subfolders? 
 
-
+[TO DO]
 Take the following (fictitious) example: 
-Here is the tree structure of TF6 in which part of the main folder (area) "21-30 Documentation" is specified. The "21-30 Documentation" area is a static folder in which ready for use templates and reference documents are collected. 
-
+Here is the tree structure of a focticious research project in which part of the main folder (area) "21-30 Documentation" is specified. The "21-30 Documentation" area is a static folder in which ready for use templates and reference documents are collected. 
+ 
+```{figure} ../figures/folder-structure-bad.png
+---
+width: 100%
+name: folder-structure-bad  
+align: center
+---
+Folder structure example
+```
 
 
 
@@ -102,6 +106,15 @@ Here is how the structure can be improved, following three of the principles:
 - reduce subfolders (max lvl3)
 - stick to the "purpose" of the folder; i.e. no "working files" in documentation (static folder)
 - implement clear file name and specify info in naming conventions system
+
+```{figure} ../figures/folder-structure-fixed.png
+---
+width: 100%
+name: folder-structure-fixed  
+align: center
+---
+Folder structure example 2
+```
 
 ## 4. Be proactive about creating (sub)folders 
 Ideally, you should have your folder structure figured out before you receive your data. If not, you may find yourself saving your data in a folder or creating some kind of organisation thinking that it is "temporary" and that you will go back to it and re-structure and sort your files later. In practice, you might not get back to it anymore and the temporary structure might end up confusing you in the longer run. 
@@ -130,7 +143,7 @@ Horror story from fasos!!start organizing from the beginning! IF you only have l
 
 Raw data are to look at, not to touch. 
 
-## 8. If working with {term}`personal data <Personal data>`, add a layer of separation between your {term}`raw data <Raw data>` your {term}`pseudonymised <Pseudonymisation>` and your {term}`anonymised <Anonymisation>` 
+## 8. If working with personal data, add a layer of separation between your raw data and your pseudonymised or anonymised one
 
 [TO DO: choose if keep the link to glossary in the title, I think that is too much]
 If working with {term}`personal data <Personal data>`, consider separating your {term}`raw data <Raw data>` from your {term}`pseudonymised <Pseudonymisation>` or {term}`anonymised <Anonymisation>` data. This increases the protection of your participant's privacy. Separation means at the very least keeping these data in different folders. The more sensitive the data, the bigger the separation that you want to implement: different storage solutions, different access rights, different encryption and encryption keys. 
