@@ -72,6 +72,8 @@ This handbook focuses on the basics for data literacy in the *research domain*, 
 
 Regardless of the domain you are in, you will often come across data-related concepts or (hot) topics, some of which might be so overused that they have become *buzzwords* (i.e., popular words, more often used just to impress than to refer to their original meaning). For instance, have you ever heard of any of the following?
 
+Blah blah {term}`big data`
+
 - {term}`Data-driven decision-making`
 - {term}`Big data`
 - {term}`Data sovereignty`
