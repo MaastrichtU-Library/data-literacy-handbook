@@ -1,7 +1,7 @@
 # What is Data Literacy?
 
 ````{margin}
-```{admonition} Data Literacy competences
+```{admonition} Competences
 :class: tip dropdown cornflowerblue
 
 <span style="color:black">
@@ -13,7 +13,6 @@ This section will help you:
 ```
 ````
 
-
 :::{prf:definition}
 :class: hint gold
 **Data literacy** refers to how competent an individual is in collecting, analysing, interpreting, evaluating, storing, sharing, and communicating data, while bearing ethical, integrity, privacy, and security considerations.
@@ -21,25 +20,31 @@ This section will help you:
 
 As you might have noticed in the definition above, there are multiple competences and aspects to consider in the journey to become data literate. You will require *knowledge* (e.g., the know what), *skills* (e.g., the know how), but also suitable *attitudes* (e.g., embracing specific personal and/or organisational values).
 
-**Example:** A researcher with the required knowledge and skills might still neglect the proper development of a *Data Management Plan* (DMP) in their project, if they have not yet embraced the importance of *FAIR principles*.
+## Applying the concept
 
-% MAKE THIS BETTER
+Robert is a young researcher who has recently attended a series of trainings by a {term}`data steward` in his institution. Therefore, it could be assumed that Robert has already acquired the necessary *knowledge* and *skills* to effectively and ethically collect, process, and manage research data. However, when pressured by work and responsibilities, Robert could still neglect the proper development of a *Data Management Plan* (DMP) in a specific project, particularly if Robert has not yet embraced the importance of *FAIR principles* (an important *attitude*!).
 
-<img width="75%" height="75%" alt="data-management-plan" src="https://github.com/user-attachments/assets/6f28d8b3-8415-40ac-b5c8-82859d1dfe4c"/>
-<br><sub> Figure 1. <em>The Turing Way </em> Community. This illustration is created by Scriberia with  <em>The Turing Way</em> community, used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></sub>
-<br><br>
+```{figure} ../figures/data-management-plan.jpg
+---
+width: 80%
+align: center
+---
+Data Management Plan {cite:p}`turing-way-scriberia-images` 
+```
 
-% ADJUST IMAGE ACCORDING TO PENNY'S FORMAT
+You can quickly assess yourself in a very specific aspect of data literacy by answering the following questions about **data storage**:
 
-**Will developing my data literacy make me a better researcher?**
+- Do you understand the importance of version control in one's dataset? [*knowledge*]
+- Can you identify suitable storage options for data, according to its characteristics and applicable? [*skills*]
+- Do you recognise the importance of a coherent and consistent structure when storing data? [*attitude*]
 
-Yes, but there are also other fundamental academic skills when working with data and information, whether physical or digital. Becoming data literate will also require you to develop some [related literacies](../basics/related-literacies-overlap.md), namely _digital_ literacy and _information_ literacy.
+## Data literacy and related skills
 
-% APPLY CLEAR SUBHEADING
+Developing your data literacy will help you become a better researcher. However, there are also other fundamental academic skills when working with data and information, whether physical or digital. Becoming data literate will also require you to develop some [related literacies](../basics/related-literacies-overlap.md), namely _digital_ literacy and _information_ literacy.
 
 ```{admonition} Delve deeper into this subject:
 :class: note grey 
-*If you want to learn more about this topic, consider one of the following material(s):*
+*If you want to learn more about this topic, consider the following material(s):*
 ```{admonition} VIDEO: Understanding the research data lifecycle
 :class: seealso darkgreen dropdown
 ```{video} https://www.youtube.com/watch?v=GhqTvWwMOYw

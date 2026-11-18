@@ -72,8 +72,6 @@ This handbook focuses on the basics for data literacy in the *research domain*, 
 
 Regardless of the domain you are in, you will often come across data-related concepts or (hot) topics, some of which might be so overused that they have become *buzzwords* (i.e., popular words, more often used just to impress than to refer to their original meaning). For instance, have you ever heard of any of the following?
 
-Blah blah {term}`big data`
-
 - {term}`Data-driven decision-making`
 - {term}`Big data`
 - {term}`Data sovereignty`
@@ -82,9 +80,7 @@ Blah blah {term}`big data`
 
 Data literacy is also important because it will help you understand some of these concepts, where they come from, and their usefulness in specific contexts.
 
-## Test your knowledge!
-
-:::::{admonition} Answer the following questions to check your familiarity with data!
+:::::{admonition} Test your knowledge! Answer the following questions.
 :class: teachbooks-question dropdown
  
  
@@ -148,7 +144,7 @@ Data literacy is also important because it will help you understand some of thes
 
 ```{admonition} Delve deeper into this subject! 
 :class: note grey 
-*If you want to learn more about this topic, consider one of the following material(s):*
+*If you want to learn more about this topic, consider the following material(s):*
 
 ```{admonition} VIDEO: Why everyone should be data literate
 :class: seealso darkgreen dropdown

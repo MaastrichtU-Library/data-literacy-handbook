@@ -72,7 +72,7 @@ align: left
 ## DELVE DEEPER ADMONITION
 This is a card with admonitions inside or an admonition into admonitions
 - Title: Delve deeper into this subject!
-- Sentence:*If you want to learn more about this topic, consider one of the following material(s):*
+- Sentence:*If you want to learn more about this topic, consider the following material(s):*
 - Each item needs to include
     - <TYPE>: <Title>
     - e.g. <VIDEO> <How to be happy>

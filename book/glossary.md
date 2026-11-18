@@ -18,6 +18,10 @@ Data literacy
 Data sovereignty
   Refers to the ability of a country to govern, regulate and control over the data generated within it's territories.
 
+Data steward
+  A person responsible for keeping the quality, integrity, and access arrangements of data and metadata in a manner that is consistent with applicable law, institutional policy, and individual permissions. Data stewardship implies professional and careful treatment of data throughout all stages of a research process. A data steward aims at guaranteeing that data is appropriately treated at all stages of the research cycle (i.e., design, collection, processing, analysis, preservation, data sharing and reuse)Refers to the ability of a country to govern, regulate and control over the data generated within it's territories.
+% definition from: https://www.openscience.nl/sites/open_science/files/media-files/professionalising_datastewardship.pdf
+
 Interoperability
   Is a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, present or future, in either implementation or access, without any restrictions. 
 % definition is direct quote from https://web.archive.org/web/20170314064547/http://interoperability-definition.info/en/
