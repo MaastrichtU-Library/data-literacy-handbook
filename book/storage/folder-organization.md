@@ -69,6 +69,10 @@ Moreover, if you are working in a team, documenting your structure ensures that 
 
 The most straightforward way to do this, is through a {term}`README file`. In there, you can describe your structure as well as your rationale for it. You can learn more about README files in the [documentation chapter](../storage/documentation.md)
 
+{term}`Readme file`
+
+{term}`Readme file <README file>`
+
 ```{figure} ../figures/file-management-manual-no-title.jpg
 ---
 width: 80%
@@ -230,3 +234,17 @@ Notes:
 
 🏖️ Step 5: Polish and enjoy. 
 You may want to still rename a few files and give one last check to your README file to make sure that it is documenting your final structure. But all in all, congrats, at this point you have a new folder structure! Remember to stick to it and keep your README file updated. 
+
+
+
+
+```{admonition} Classroom activity
+:class: tip mediumslateblue dropdown
+
+<span style="color:black">
+<content content content>
+</span>
+```
+
+
+
