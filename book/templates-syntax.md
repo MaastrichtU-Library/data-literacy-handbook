@@ -24,6 +24,8 @@
 [ref]: https://www.markdownlang.com "Optional title"
 [Link text]: https://www.markdownlang.com
 
+<a href="https://example.nl" target="_blank">Example</a> % This format opens the external link in a new browser page
+
 ##  Markdown Autolinks
 
 <https://www.markdownlang.com>
@@ -63,6 +65,9 @@ width: 10%
 align: left
 ---
 ```  
+
+<div style="clear: both;"></div> % Add this if you want the following text in a separate line.
+
 - note that the main difference is if you use IMAGE or FIGURE at the beginning. The IMAGE one facilitates that there is proper alignment
 
 # ADMONITIONS: 
