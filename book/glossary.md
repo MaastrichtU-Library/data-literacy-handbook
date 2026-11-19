@@ -6,6 +6,9 @@ Anonymisation
 Big data
   Often used as a *buzzword*, big data refers to datasets that are too large or complex than the typical datasets in a specific context.
 
+Data
+  Factual information used as a basis for reasoning, discussion, or calculation {cite:ps}`merriam-webster-data`.
+
 Datafication
   Refers to a technological trend where multiple aspects in daily life are turned into data, consequently leading to its conversion into new values (e.g., predictive analytics).
 
@@ -14,6 +17,10 @@ Data-driven decision-making
 
 Data literacy
   Refers to how competent an individual is in *collecting*, *analysing*, *interpreting*, *evaluating*, *storing*, *sharing*, and *communicating* data, while bearing *ethical*, *integrity*, *privacy*, and *security* considerations.
+
+Data literacy competences
+  Refers to important aspects or themes of data literacy that require the
+  integration of knowledge, attitude and skills. Knowledge refers to the know what (e.g. recalling, understanding, defining), skill refers to the know how (i,e., an ability to perform a task), and attitudes refer to a set of values; personal or institutional predispositions.
 
 Data sovereignty
   Refers to the ability of a country to govern, regulate and control over the data generated within it's territories.
