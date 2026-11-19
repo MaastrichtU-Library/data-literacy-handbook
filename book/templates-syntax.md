@@ -34,8 +34,22 @@
 [Jump to heading](#heading-name)
 [Back to top](#top)
 
-## referencing figure 
+## referencing figure & table
 {numref}`Figure {number} <name of the figure>` 
+
+Alternative ways to reference it are available here: https://jupyterbook.org/v1/content/references.html#:~:text=Here%20are%20several%20ways%20to%20reference%20this%20content
+
+# ADD TABLES
+% https://jupyterbook.org/v1/content/references.html#reference-tables 
+
+
+```{table} My table title
+:name: my-table-ref
+
+| header 1 | header 2 |
+|---|---|
+| 3 | 4 |
+```
 
 # ADD IMAGES
 
