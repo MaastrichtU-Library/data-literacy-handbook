@@ -158,7 +158,29 @@ This card is a way to propose alternative activities to students/teachers. Each 
 *Would you like to have a more visual explanation of metadata? Check out this video!*
 ```{video} https://www.youtube.com/watch?v=L0vOg18ncWE
 ```
+
+```{admonition} Classroom activity
+:class: tip mediumslateblue dropdown
+
+<span style="color:black">
+<content content content>
+</span>
+```
+
 :::::
+
+# IDEAS FOR CLASSROOM ACTIVITIES FOR TEACHERS
+
+Use the following admonition. This can be embedded within a grasping the concept or a delve deeper into the subject card. 
+
+```{admonition} Classroom activity
+:class: tip mediumslateblue dropdown
+
+<span style="color:black">
+<content content content>
+</span>
+```
+
 
 # ATTRIBUTING ADAPTED TEXT FOR ENTIRE SECTIONS
 
